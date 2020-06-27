@@ -1,0 +1,104 @@
+{% extends 'base.htm' %}
+{% block content %}
+
+{% if messages %}
+{% for message in messages %}
+<div class="alert alert-dark alert-{{ message.tags }} alert-dismissible fade show" role="alert">
+    {{ message }}
+    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+        <span aria-hidden="true">&times;</span>
+    </button>
+</div>
+{% endfor %}
+{% endif %}
+
+<h2>Morphology Classification</h2>
+<div class="parent_div">
+    <div class="dc1">
+        <form method="POST" enctype="multipart/form-data">
+            {% csrf_token %}
+            <div class="form-group">
+                <label for="file">Load Galaxy Catalogue (NumPy) </label>
+                <input type="file" name="file"><br>
+            </div>
+            <div class="form-group">
+                <label for="training_fraction">Training Fraction</label>
+                <input class="form-control" type="number" min=".1" step="0.01" name='training_fraction' value=".7">
+            </div>
+            <button id="btn_load_dataset" class="badge badge-pill" type="submit">Load Dataset</button>
+        </form>
+        <button class="badge badge-pill" id="btn_extract_features">Extract Features</button>
+        <div id="div_features" style='max-width:50px;margin:auto;'>
+        </div>
+    </div>
+
+    <div class="dc2">
+        <h3>Dataset Dimensions</h3>
+        <table class="table table-sm table-dark">
+            <tr><th># of Galaxies in Dataset</th><td>{{size}}</td></tr><tr><th>Training Fraction</th><td>{{n_training_fraction}}</td></tr>
+            <tr><th># of Galaxies in Training Set</th><td>{{n_training_set}}</td></tr>
+            <tr><th># of Galaxies in Testing Set</th><td>{{n_testing_set}}</td></tr>
+        </table>
+    </div>
+    <div class="dc3">
+        <h3>Sample Record</h3>
+        <table class="table table-sm table-dark">
+            <tr><th>u-g</th><td>{{u_g}}</td></tr>
+            <tr><th>g-r</th><td>{{g_r}}</td></tr>
+            <tr><th>r-i</th><td>{{r_i}}</td></tr>
+            <tr><th>i-z</th><td>{{i_z}}</td></tr>
+            <tr><th>ecc</th><td>{{ecc}}</td></tr>
+            <tr><th>m4_u</th><td>{{ m4_u }}</td></tr>
+            <tr><th>m4_g</th><td>{{ m4_g }}</td></tr>
+            <tr><th>m4_r</th><td>{{ m4_r }}</td></tr>
+            <tr><th>m4_i</th><td>{{ m4_i }}</td></tr>
+            <tr><th>m4_z</th><td>{{ m4_z }}</td></tr>
+            <tr><th>ecc</th><td>{{ ecc }}</td></tr>
+            <tr><th>petroR50_u</th><td>{{ petroR50_u }}</td></tr>
+            <tr><th>petroR50_r</th><td>{{ petroR50_r }}</td></tr>
+            <tr><th>petroR50_z</th><td>{{ petroR50_z }}</td></tr>
+            <tr><th>petroR90_u</th><td>{{ petroR90_u }}</td></tr>
+            <tr><th>petroR90_r</th><td>{{ petroR90_r }}</td></tr>
+            <tr><th>petroR90_z</th><td>{{ petroR90_z }}</td></tr>
+        </table>
+    </div>
+
+    <div class="dc4">
+        {% load static %}
+        <h3> Galaxy Class</h3>
+        {% if class == 'spiral' %}
+        <img ALIGN="left" src="{% static 'images/spiral.png' %}" />
+        {% elif class == 'elliptical' %}
+        <img ALIGN="left" src="{% static 'images/elliptical.png' %}" />
+        {% elif class == 'merger' %}
+        <img ALIGN="left" src="{% static 'images/merger.png' %}" />
+        {% else %}
+        <div style='border: 1px solid olive; width:180px; height:180px;'></div>
+        {% endif %}
+        <br>
+        Type: <style="float:right;" span class="badge badge-pill badge-warning">{{class|upper}}</span>
+    </div>
+</div>
+
+<canvas id="myChart" width="60" height="60"></canvas>
+
+{% endblock %}
+
+{% block scripts %}
+<script>
+    let base_url = 'http://127.0.0.1:8000/';
+    $("#btn_extract_features").on('click', function () {
+        $.ajax({
+            type: 'DELETE',
+            url: base_url + 'heroes',
+            success: function () {
+                location.reload();
+            },
+            error: function () {
+                alert("Couldn't execute function.");
+            }
+        });
+
+    });
+</script>
+{% endblock scripts %}

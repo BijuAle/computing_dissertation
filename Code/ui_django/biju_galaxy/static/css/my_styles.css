@@ -1,0 +1,113 @@
+/*Fonts*/
+
+@font-face {
+	font-family: Caslon;
+	font-style: normal;
+	font-weight: normal;
+	src: url(../fonts/ACaslonPro-Regular.otf) format('opentype');
+}
+
+@font-face {
+	font-family: Cheltenham;
+	font-style: normal;
+	font-weight: normal;
+	src: url(../fonts/CheltenhamBookRegular.otf) format('opentype');
+}
+
+body {
+	font-family: Caslon !important;
+	color: #049372;
+	background: url(../images/philosophia_christi.jpg) fixed;
+}
+
+.jumbotron {
+	font-family: Cheltenham;
+	background: url(../images/cartographer.png) fixed;
+	margin: 0;
+	padding: 25px 100px 0 100px;
+}
+
+.sec {
+	margin-bottom: 30px
+}
+
+a {
+	color: #5884b3;
+}
+
+.navbar {
+	margin: 0 30px 30px 30px;
+	border-bottom: 1px solid rgb(131, 24, 24);
+}
+
+.list-group-item {
+	background-color: transparent;
+}
+
+li {
+	text-align: justify;
+}
+
+.navbar-dark .navbar-brand {
+	color: #049372;
+}
+
+.navbar-dark .navbar-brand:hover, .navbar-dark .navbar-brand:focus {
+	color: #049372;
+}
+.navbar-nav{
+margin-left: 200px;
+}
+
+#t1{
+	font-size: 15px;
+	text-align: justify;
+  	text-justify: inter-word;
+}
+#t2{
+    font-size: 12px;
+    font-style: italic;
+	text-align: justify;
+	text-justify: inter-word;
+}
+#au{
+	font-size: 13px;
+	border-top: 1px solid #049372;
+	margin-top: 2px;
+	text-align: right;
+
+}
+#d1{
+	
+	float: left;
+}
+#d2{
+	float: left;
+}
+
+header {
+	/* position:sticky; */
+	top: 0;
+	background: url(../images/cartographer.png) fixed;
+}
+
+.form-control {
+	width:25%;
+}
+
+.parent_div{
+	display: flex;
+	border-top: 1px solid;
+	padding: 10px;
+}
+.parent_div>div{
+	flex:1;
+	padding:10px;
+}
+.dc3{
+	border-right: 1px solid;
+	border-left: 1px solid;	
+}
+thead, th{
+	color:#049372;
+}
