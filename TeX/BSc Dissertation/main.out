@@ -1,0 +1,72 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Background}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Aim \046 Objectives}{section.1}% 3
+\BOOKMARK [3][-]{subsubsection.1.2.1}{Technical Objectives.}{subsection.1.2}% 4
+\BOOKMARK [3][-]{subsubsection.1.2.2}{Personal Objectives}{subsection.1.2}% 5
+\BOOKMARK [3][-]{subsubsection.1.2.3}{Academic Objectives}{subsection.1.2}% 6
+\BOOKMARK [2][-]{subsection.1.3}{Overview}{section.1}% 7
+\BOOKMARK [2][-]{subsection.1.4}{Feature Extraction}{section.1}% 8
+\BOOKMARK [2][-]{subsection.1.5}{Algorithm Selection}{section.1}% 9
+\BOOKMARK [2][-]{subsection.1.6}{Training \046 Accuracy}{section.1}% 10
+\BOOKMARK [2][-]{subsection.1.7}{Cross-Validatioin}{section.1}% 11
+\BOOKMARK [1][-]{section.2}{Ethical \046 Professional Consideration}{}% 12
+\BOOKMARK [1][-]{section.3}{Literature Review}{}% 13
+\BOOKMARK [2][-]{subsection.3.1}{Data-driven Astronomy}{section.3}% 14
+\BOOKMARK [2][-]{subsection.3.2}{Machine Learning - A Primer}{section.3}% 15
+\BOOKMARK [2][-]{subsection.3.3}{Machine Learning's Relation with other domains}{section.3}% 16
+\BOOKMARK [2][-]{subsection.3.4}{Types of Machine Learning Problem}{section.3}% 17
+\BOOKMARK [3][-]{subsubsection.3.4.1}{Supervised Learning}{subsection.3.4}% 18
+\BOOKMARK [3][-]{subsubsection.3.4.2}{Unsupervised Learning}{subsection.3.4}% 19
+\BOOKMARK [3][-]{subsubsection.3.4.3}{Reinforcement Learning}{subsection.3.4}% 20
+\BOOKMARK [2][-]{subsection.3.5}{Ensemble Method}{section.3}% 21
+\BOOKMARK [2][-]{subsection.3.6}{The Origin of the Universe}{section.3}% 22
+\BOOKMARK [2][-]{subsection.3.7}{Redshift Measurements}{section.3}% 23
+\BOOKMARK [2][-]{subsection.3.8}{Galaxy Classification}{section.3}% 24
+\BOOKMARK [2][-]{subsection.3.9}{Ensemble Methods in Astronomical Machine Learning}{section.3}% 25
+\BOOKMARK [1][-]{section.4}{Methodology}{}% 26
+\BOOKMARK [2][-]{subsection.4.1}{Overview}{section.4}% 27
+\BOOKMARK [2][-]{subsection.4.2}{Regression Classifiers}{section.4}% 28
+\BOOKMARK [3][-]{subsubsection.4.2.1}{Photometric Redshift}{subsection.4.2}% 29
+\BOOKMARK [3][-]{subsubsection.4.2.2}{Magnitudes and Colours}{subsection.4.2}% 30
+\BOOKMARK [3][-]{subsubsection.4.2.3}{Decision Trees in Python}{subsection.4.2}% 31
+\BOOKMARK [3][-]{subsubsection.4.2.4}{The Sloan Data}{subsection.4.2}% 32
+\BOOKMARK [3][-]{subsubsection.4.2.5}{Features \046 Targets}{subsection.4.2}% 33
+\BOOKMARK [3][-]{subsubsection.4.2.6}{Limitations of Non-ML approach}{subsection.4.2}% 34
+\BOOKMARK [3][-]{subsubsection.4.2.7}{Decision Tree Regressor}{subsection.4.2}% 35
+\BOOKMARK [3][-]{subsubsection.4.2.8}{Evaluating The Accuracy}{subsection.4.2}% 36
+\BOOKMARK [3][-]{subsubsection.4.2.9}{Hold-out Validation}{subsection.4.2}% 37
+\BOOKMARK [3][-]{subsubsection.4.2.10}{The Problem of Overfitting Tendency}{subsection.4.2}% 38
+\BOOKMARK [3][-]{subsubsection.4.2.11}{K-fold Cross Validation}{subsection.4.2}% 39
+\BOOKMARK [3][-]{subsubsection.4.2.12}{Quasars vs Galaxies}{subsection.4.2}% 40
+\BOOKMARK [2][-]{subsection.4.3}{Classification}{section.4}% 41
+\BOOKMARK [3][-]{subsubsection.4.3.1}{Classifier's Gold Standard - Galaxy Zoo}{subsection.4.3}% 42
+\BOOKMARK [3][-]{subsubsection.4.3.2}{Deciding upon the Features}{subsection.4.3}% 43
+\BOOKMARK [3][-]{subsubsection.4.3.3}{Describing the Dataset}{subsection.4.3}% 44
+\BOOKMARK [3][-]{subsubsection.4.3.4}{Splitting into the Training and the Testing Set}{subsection.4.3}% 45
+\BOOKMARK [3][-]{subsubsection.4.3.5}{Generating Features and Targets}{subsection.4.3}% 46
+\BOOKMARK [3][-]{subsubsection.4.3.6}{Training the Decision Tree}{subsection.4.3}% 47
+\BOOKMARK [3][-]{subsubsection.4.3.7}{Accuracy and model score}{subsection.4.3}% 48
+\BOOKMARK [3][-]{subsubsection.4.3.8}{Ensemble Learning}{subsection.4.3}% 49
+\BOOKMARK [1][-]{section.5}{Findings \046 Discussion}{}% 50
+\BOOKMARK [2][-]{subsection.5.1}{Red-shift Regression}{section.5}% 51
+\BOOKMARK [3][-]{subsubsection.5.1.1}{Phase I : Accuracy Assessment with Median Difference }{subsection.5.1}% 52
+\BOOKMARK [3][-]{subsubsection.5.1.2}{Phase II: Realistic accuracy with hold-out validation}{subsection.5.1}% 53
+\BOOKMARK [3][-]{subsubsection.5.1.3}{Phase III: Improving the accuracy with K-Fold Cross Validation}{subsection.5.1}% 54
+\BOOKMARK [3][-]{subsubsection.5.1.4}{Quasars vs Galaxies}{subsection.5.1}% 55
+\BOOKMARK [2][-]{subsection.5.2}{Morphology Classification}{section.5}% 56
+\BOOKMARK [3][-]{subsubsection.5.2.1}{Accuracy Assessment with Confusion Matrix}{subsection.5.2}% 57
+\BOOKMARK [3][-]{subsubsection.5.2.2}{Random Forest vs Decision Tree}{subsection.5.2}% 58
+\BOOKMARK [1][-]{section.6}{Conclusion}{}% 59
+\BOOKMARK [2][-]{subsection.6.1}{Lessons Learnt}{section.6}% 60
+\BOOKMARK [2][-]{subsection.6.2}{Limitation of Study}{section.6}% 61
+\BOOKMARK [2][-]{subsection.6.3}{Future Work}{section.6}% 62
+\BOOKMARK [1][-]{section.7}{Acknowledgment}{}% 63
+\BOOKMARK [1][-]{section.7}{References}{}% 64
+\BOOKMARK [1][-]{section.8}{Appendix}{}% 65
+\BOOKMARK [2][-]{subsection.8.1}{Word Count}{section.8}% 66
+\BOOKMARK [2][-]{subsection.8.2}{Dissertation Structure}{section.8}% 67
+\BOOKMARK [2][-]{subsection.8.3}{Visual Classification Scheme}{section.8}% 68
+\BOOKMARK [2][-]{subsection.8.4}{Code Snippets}{section.8}% 69
+\BOOKMARK [2][-]{subsection.8.5}{GUI Prototype}{section.8}% 70
+\BOOKMARK [2][-]{subsection.8.6}{Redshift Regression}{section.8}% 71
+\BOOKMARK [2][-]{subsection.8.7}{Morphology Classification}{section.8}% 72

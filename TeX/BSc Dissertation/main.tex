@@ -1,0 +1,26 @@
+\documentclass[a4paper, twocolumn]{article}
+\usepackage{preamble/styles}
+
+\begin{document}
+	
+%Front Matter
+\input{sections/1_abstract.tex} \onecolumn
+\begin{center}
+\adforn{21}\quad To my mother, S. Ale\quad \adforn{49}
+\end{center}
+\tableofcontents \listoffigures \listoftables \newpage
+
+%Main Matter
+\input{sections/2_introduction.tex}
+\input{sections/3_ethics.tex}
+\input{sections/4_literature_review.tex}
+\input{sections/5_methodology.tex}
+\input{sections/6_findings_discussion.tex}
+\input{sections/7_conclusion.tex} \newpage
+\addcontentsline{toc}{section}{References} \twocolumn \printbibliography[title=References]
+
+%Back Matter
+\clearpage
+\input{sections/8_appendix.tex}
+
+\end{document}

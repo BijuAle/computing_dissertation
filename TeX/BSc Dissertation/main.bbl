@@ -1,0 +1,3205 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{allwein_reducing_2001}{article}{}
+      \name{author}{3}{}{%
+        {{hash=695923c45d31e030c33fb0807247b4f4}{%
+           family={Allwein},
+           familyi={A\bibinitperiod},
+           given={Erin\bibnamedelima L.},
+           giveni={E\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=08900c47ecc2f4dbcb934ad47bb6db9b}{%
+           family={Schapire},
+           familyi={S\bibinitperiod},
+           given={Robert\bibnamedelima E.},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=300d4990e626d975e0c28630444f63c3}{%
+           family={Singer},
+           familyi={S\bibinitperiod},
+           given={Yoram},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{a7886b8a274ed374dfeb394e171305a5}
+      \strng{fullhash}{a7886b8a274ed374dfeb394e171305a5}
+      \strng{bibnamehash}{a7886b8a274ed374dfeb394e171305a5}
+      \strng{authorbibnamehash}{a7886b8a274ed374dfeb394e171305a5}
+      \strng{authornamehash}{a7886b8a274ed374dfeb394e171305a5}
+      \strng{authorfullhash}{a7886b8a274ed374dfeb394e171305a5}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of Machine Learning Research}
+      \field{month}{9}
+      \field{title}{Reducing Multiclass to Binary: A Unifying Approach for Margin Classifiers}
+      \field{volume}{1}
+      \field{year}{2001}
+      \field{dateera}{ce}
+      \field{pages}{113\bibrangedash 141}
+      \range{pages}{29}
+    \endentry
+    \entry{ball_galaxy_2004}{article}{}
+      \name{author}{7}{}{%
+        {{hash=9ec7f9efccff97072ddbc2d45aeec906}{%
+           family={Ball},
+           familyi={B\bibinitperiod},
+           given={N.\bibnamedelimi M.},
+           giveni={N\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=1aad4d8b321289482a4d0037e0a22955}{%
+           family={Loveday},
+           familyi={L\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=72ed371dc98ba7c921bcbccbaac9b5b0}{%
+           family={Fukugita},
+           familyi={F\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=922a36f8f3432a1be60470bac058ec6b}{%
+           family={Nakamura},
+           familyi={N\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod}}}%
+        {{hash=e951fb71d8978deda1326e17bc747232}{%
+           family={Okamura},
+           familyi={O\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ed36dd6d3cf21bd0bec8c27470e39d23}{%
+           family={Brinkmann},
+           familyi={B\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c375a07f89af05b2e621ba8060598f98}{%
+           family={Brunner},
+           familyi={B\bibinitperiod},
+           given={R.\bibnamedelimi J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{eb0b8af875060debda6fc6b597c274b0}
+      \strng{fullhash}{b8b03762f95e4c76c675c3980d8933ac}
+      \strng{bibnamehash}{b8b03762f95e4c76c675c3980d8933ac}
+      \strng{authorbibnamehash}{b8b03762f95e4c76c675c3980d8933ac}
+      \strng{authornamehash}{eb0b8af875060debda6fc6b597c274b0}
+      \strng{authorfullhash}{b8b03762f95e4c76c675c3980d8933ac}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Monthly Notices of the Royal Astronomical Society}
+      \field{month}{3}
+      \field{number}{3}
+      \field{title}{Galaxy types in the Sloan Digital Sky Survey using supervised artificial neural networks}
+      \field{volume}{348}
+      \field{year}{2004}
+      \field{dateera}{ce}
+      \field{pages}{1038\bibrangedash 1046}
+      \range{pages}{9}
+    \endentry
+    \entry{banfield_comparison_2007}{article}{}
+      \name{author}{4}{}{%
+        {{hash=12ad4b5b6e9565573418bfebf2fd753d}{%
+           family={Banfield},
+           familyi={B\bibinitperiod},
+           given={Robert\bibnamedelima E.},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=3f083c041520d8fa6be3faa597476d15}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={Lawrence\bibnamedelima O.},
+           giveni={L\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=07156c210eaf004bb9d8ec5b07f02d55}{%
+           family={Bowyer},
+           familyi={B\bibinitperiod},
+           given={Kevin\bibnamedelima W.},
+           giveni={K\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=d66be0948a5085778a35663d6fd6c8cc}{%
+           family={Kegelmeyer},
+           familyi={K\bibinitperiod},
+           given={W.P.},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{5490208ebc6317935427b927e6c193d7}
+      \strng{fullhash}{18065e1592fd55040842508701b97c16}
+      \strng{bibnamehash}{18065e1592fd55040842508701b97c16}
+      \strng{authorbibnamehash}{18065e1592fd55040842508701b97c16}
+      \strng{authornamehash}{5490208ebc6317935427b927e6c193d7}
+      \strng{authorfullhash}{18065e1592fd55040842508701b97c16}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{IEEE} Transactions on Pattern Analysis and Machine Intelligence}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{A Comparison of Decision Tree Ensemble Creation Techniques}
+      \field{volume}{29}
+      \field{year}{2007}
+      \field{dateera}{ce}
+      \field{pages}{173\bibrangedash 180}
+      \range{pages}{8}
+    \endentry
+    \entry{barchi_machine_2020}{article}{}
+      \name{author}{10}{}{%
+        {{hash=a967126829e429b327cfd5fcb399ca93}{%
+           family={Barchi},
+           familyi={B\bibinitperiod},
+           given={P.\bibnamedelimi H.},
+           giveni={P\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=ebe1665d881e8301039530ed8dca8b04}{%
+           family={Carvalho},
+           familyi={C\bibinitperiod},
+           given={R.\bibnamedelimi R.},
+           giveni={R\bibinitperiod\bibinitdelim R\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=f026d00d099970ed2fe118e7cdae69f7}{%
+           family={Rosa},
+           familyi={R\bibinitperiod},
+           given={R.\bibnamedelimi R.},
+           giveni={R\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=52889c5af20b1d727a586c4bd47e7466}{%
+           family={Sautter},
+           familyi={S\bibinitperiod},
+           given={R.\bibnamedelimi A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=1e2b24b37c7a03922fdb064043c141ad}{%
+           family={Soares-Santos},
+           familyi={S\bibinithyphendelim S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7d1b5113a0038ab6a896f883adfc0716}{%
+           family={Marques},
+           familyi={M\bibinitperiod},
+           given={B.\bibnamedelimi A.\bibnamedelimi D.},
+           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=3c918832b99d032c4cdb920e931f004e}{%
+           family={Clua},
+           familyi={C\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=e852fedde9319660bef0c7fce4bfeb3a}{%
+           family={Gonçalves},
+           familyi={G\bibinitperiod},
+           given={T.\bibnamedelimi S.},
+           giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=256c183f9830c18c07bf895351ed838d}{%
+           family={Sá-Freitas},
+           familyi={S\bibinithyphendelim F\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=dbc4e580d37eb720f2e01b6e6d29047e}{%
+           family={Moura},
+           familyi={M\bibinitperiod},
+           given={T.\bibnamedelimi C.},
+           giveni={T\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{9285d4755dd76230a34aff963f6a3165}
+      \strng{fullhash}{15fee43719180b1840940ee8fe0944c0}
+      \strng{bibnamehash}{15fee43719180b1840940ee8fe0944c0}
+      \strng{authorbibnamehash}{15fee43719180b1840940ee8fe0944c0}
+      \strng{authornamehash}{9285d4755dd76230a34aff963f6a3165}
+      \strng{authorfullhash}{15fee43719180b1840940ee8fe0944c0}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{journaltitle}{Astronomy and Computing}
+      \field{month}{1}
+      \field{title}{Machine and Deep Learning applied to galaxy morphology - A comparative study}
+      \field{volume}{30}
+      \field{year}{2020}
+      \field{dateera}{ce}
+    \endentry
+    \entry{barragan-jason_neural_2015}{article}{}
+      \name{author}{3}{}{%
+        {{hash=4103b838030b74ccb3d7339a2e9c11a5}{%
+           family={Barragan-Jason},
+           familyi={B\bibinithyphendelim J\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=f28bb930da56daaf4aa68ff4a8acd8db}{%
+           family={Cauchoix},
+           familyi={C\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=585d05f0cafe514094811361699a6389}{%
+           family={Barbeau},
+           familyi={B\bibinitperiod},
+           given={E.\bibnamedelimi J.},
+           giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{695b350ab13ab0305d35e3b984d7dd02}
+      \strng{fullhash}{695b350ab13ab0305d35e3b984d7dd02}
+      \strng{bibnamehash}{695b350ab13ab0305d35e3b984d7dd02}
+      \strng{authorbibnamehash}{695b350ab13ab0305d35e3b984d7dd02}
+      \strng{authornamehash}{695b350ab13ab0305d35e3b984d7dd02}
+      \strng{authorfullhash}{695b350ab13ab0305d35e3b984d7dd02}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{journaltitle}{Neuropsychologia}
+      \field{month}{8}
+      \field{title}{The neural speed of familiar face recognition}
+      \field{volume}{75}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{pages}{390\bibrangedash 401}
+      \range{pages}{12}
+      \keyw{{ERP},explicit famous face recognition,Familiarity,{MVPA},N170,N250}
+    \endentry
+    \entry{bazell_ensembles_2001}{article}{}
+      \name{author}{2}{}{%
+        {{hash=469d1f9c5299dce9c5c57863fe59ec57}{%
+           family={Bazell},
+           familyi={B\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=92a14ac89f93c224dc339aaaa178fd94}{%
+           family={Aha},
+           familyi={A\bibinitperiod},
+           given={David\bibnamedelima W.},
+           giveni={D\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{09af9a1d8e20b6522d5f39b23d273801}
+      \strng{fullhash}{09af9a1d8e20b6522d5f39b23d273801}
+      \strng{bibnamehash}{09af9a1d8e20b6522d5f39b23d273801}
+      \strng{authorbibnamehash}{09af9a1d8e20b6522d5f39b23d273801}
+      \strng{authornamehash}{09af9a1d8e20b6522d5f39b23d273801}
+      \strng{authorfullhash}{09af9a1d8e20b6522d5f39b23d273801}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Astrophysical Journal}
+      \field{month}{2}
+      \field{number}{1}
+      \field{title}{Ensembles of Classifiers for Morphological Galaxy Classification}
+      \field{volume}{548}
+      \field{year}{2001}
+      \field{dateera}{ce}
+      \field{pages}{219\bibrangedash 223}
+      \range{pages}{5}
+    \endentry
+    \entry{benediktsson_multiple_2009}{collection}{}
+      \name{editor}{3}{}{%
+        {{hash=3ec65ceec20cb6d75401ebc409c3d3fe}{%
+           family={Benediktsson},
+           familyi={B\bibinitperiod},
+           given={Jón\bibnamedelima Atli},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=9dd3a56c94774f5880ca7475fdc308ea}{%
+           family={Kittler},
+           familyi={K\bibinitperiod},
+           given={Josef},
+           giveni={J\bibinitperiod}}}%
+        {{hash=19ca143efaaea0b22bc6fad56e333cc5}{%
+           family={Roli},
+           familyi={R\bibinitperiod},
+           given={Fabio},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{a8723e96f60763925c1eb5424e2797b6}
+      \strng{fullhash}{a8723e96f60763925c1eb5424e2797b6}
+      \strng{bibnamehash}{a8723e96f60763925c1eb5424e2797b6}
+      \strng{editorbibnamehash}{a8723e96f60763925c1eb5424e2797b6}
+      \strng{editornamehash}{a8723e96f60763925c1eb5424e2797b6}
+      \strng{editorfullhash}{a8723e96f60763925c1eb5424e2797b6}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{series}{Lecture Notes in Computer Science}
+      \field{title}{Multiple Classifier Systems: 8th International Workshop, {MCS} 2009}
+      \field{volume}{5519}
+      \field{year}{2009}
+      \field{dateera}{ce}
+    \endentry
+    \entry{breiman_bias_1996}{report}{}
+      \name{author}{1}{}{%
+        {{hash=132b7100417675d55d5d4d8b244f7a34}{%
+           family={Breiman},
+           familyi={B\bibinitperiod},
+           given={Leo},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Statistics Department, University of California, Berkeley}%
+      }
+      \strng{namehash}{132b7100417675d55d5d4d8b244f7a34}
+      \strng{fullhash}{132b7100417675d55d5d4d8b244f7a34}
+      \strng{bibnamehash}{132b7100417675d55d5d4d8b244f7a34}
+      \strng{authorbibnamehash}{132b7100417675d55d5d4d8b244f7a34}
+      \strng{authornamehash}{132b7100417675d55d5d4d8b244f7a34}
+      \strng{authorfullhash}{132b7100417675d55d5d4d8b244f7a34}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{Technical Report 460}
+      \field{title}{Bias, variance, and arcing classifiers}
+      \field{year}{1996}
+      \field{dateera}{ce}
+    \endentry
+    \entry{buta_galaxy_2013}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=3e337c5075b69fe5792e25cfea787eef}{%
+           family={Buta},
+           familyi={B\bibinitperiod},
+           given={Ronald\bibnamedelima J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=d413483ccfe0da84920f6ed7d95950c5}{%
+           family={Oswalt},
+           familyi={O\bibinitperiod},
+           given={Terry\bibnamedelima D.},
+           giveni={T\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=c52e69bde898216f1eb1a79abf8553a4}{%
+           family={Keel},
+           familyi={K\bibinitperiod},
+           given={William\bibnamedelima C.},
+           giveni={W\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Dordrecht}%
+      }
+      \list{publisher}{1}{%
+        {Springer Netherlands}%
+      }
+      \strng{namehash}{3e337c5075b69fe5792e25cfea787eef}
+      \strng{fullhash}{3e337c5075b69fe5792e25cfea787eef}
+      \strng{bibnamehash}{3e337c5075b69fe5792e25cfea787eef}
+      \strng{authorbibnamehash}{3e337c5075b69fe5792e25cfea787eef}
+      \strng{authornamehash}{3e337c5075b69fe5792e25cfea787eef}
+      \strng{authorfullhash}{3e337c5075b69fe5792e25cfea787eef}
+      \strng{editorbibnamehash}{553db6b0f2aa4d72b9d6359aac1f0283}
+      \strng{editornamehash}{553db6b0f2aa4d72b9d6359aac1f0283}
+      \strng{editorfullhash}{553db6b0f2aa4d72b9d6359aac1f0283}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Planets, Stars and Stellar Systems: Volume 6: Extragalactic Astronomy and Cosmology}
+      \field{title}{Galaxy Morphology}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{pages}{1\bibrangedash 89}
+      \range{pages}{89}
+    \endentry
+    \entry{caharel_face_2013}{article}{}
+      \name{author}{3}{}{%
+        {{hash=5fb9439a8ad311b4e0361005a743d25a}{%
+           family={Caharel},
+           familyi={C\bibinitperiod},
+           given={Stephanie},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d2ecc53b005e47a19eefae6f377d564a}{%
+           family={Ramon},
+           familyi={R\bibinitperiod},
+           given={Meike},
+           giveni={M\bibinitperiod}}}%
+        {{hash=4f53b33d7c8c5ea4846f3baaa46efc2a}{%
+           family={Rossion},
+           familyi={R\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{fba1fd9055cd376a24da281195a018c1}
+      \strng{fullhash}{fba1fd9055cd376a24da281195a018c1}
+      \strng{bibnamehash}{fba1fd9055cd376a24da281195a018c1}
+      \strng{authorbibnamehash}{fba1fd9055cd376a24da281195a018c1}
+      \strng{authornamehash}{fba1fd9055cd376a24da281195a018c1}
+      \strng{authorfullhash}{fba1fd9055cd376a24da281195a018c1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{5}
+      \field{journaltitle}{Journal of Cognitive Neuroscience}
+      \field{month}{8}
+      \field{number}{1}
+      \field{title}{Face Familiarity Decisions Take 200 msec in the Human Brain: Electrophysiological Evidence from a Go/No-go Speeded Task}
+      \field{volume}{26}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{pages}{81\bibrangedash 95}
+      \range{pages}{15}
+    \endentry
+    \entry{cooper_when_1993}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=2adf3021085e9f8b64cd83f04af3b72c}{%
+           family={Cooper},
+           familyi={C\bibinitperiod},
+           given={Leon\bibnamedelima N},
+           giveni={L\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=ca72bdfcfd0323bc23332d8a79c443d1}{%
+           family={Perrone},
+           familyi={P\bibinitperiod},
+           given={Michael\bibnamedelima P.},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=e281dbb98e6c0a14b2b8bb887620f328}{%
+           family={Mammone},
+           familyi={M\bibinitperiod},
+           given={R.J.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Chapman \& Hall}%
+      }
+      \strng{namehash}{47edace561096c53f40dbe776e54db61}
+      \strng{fullhash}{47edace561096c53f40dbe776e54db61}
+      \strng{bibnamehash}{47edace561096c53f40dbe776e54db61}
+      \strng{authorbibnamehash}{47edace561096c53f40dbe776e54db61}
+      \strng{authornamehash}{47edace561096c53f40dbe776e54db61}
+      \strng{authorfullhash}{47edace561096c53f40dbe776e54db61}
+      \strng{editorbibnamehash}{e281dbb98e6c0a14b2b8bb887620f328}
+      \strng{editornamehash}{e281dbb98e6c0a14b2b8bb887620f328}
+      \strng{editorfullhash}{e281dbb98e6c0a14b2b8bb887620f328}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Artificial Networks for Speech \& Vision}
+      \field{title}{When networks disagree: Ensemble methods for hybrid neural networks}
+      \field{year}{1993}
+      \field{dateera}{ce}
+      \field{pages}{126\bibrangedash 142}
+      \range{pages}{17}
+    \endentry
+    \entry{craig_ultimate_1999}{article}{}
+      \name{author}{1}{}{%
+        {{hash=5a0860e9975dbeb5f0164510d40a7238}{%
+           family={Craig},
+           familyi={C\bibinitperiod},
+           given={William\bibnamedelima Lane},
+           giveni={W\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{5a0860e9975dbeb5f0164510d40a7238}
+      \strng{fullhash}{5a0860e9975dbeb5f0164510d40a7238}
+      \strng{bibnamehash}{5a0860e9975dbeb5f0164510d40a7238}
+      \strng{authorbibnamehash}{5a0860e9975dbeb5f0164510d40a7238}
+      \strng{authornamehash}{5a0860e9975dbeb5f0164510d40a7238}
+      \strng{authorfullhash}{5a0860e9975dbeb5f0164510d40a7238}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{journaltitle}{Astrophysics and Space Science}
+      \field{month}{12}
+      \field{title}{The Ultimate Question of Origins: God and the Beginning of the Universe}
+      \field{volume}{269}
+      \field{year}{1999}
+      \field{dateera}{ce}
+      \field{pages}{721\bibrangedash 738}
+      \range{pages}{18}
+    \endentry
+    \entry{davies_god_2007}{book}{}
+      \name{author}{1}{}{%
+        {{hash=4a331677e4f34de73e3a6d4504a7d9c5}{%
+           family={Davies},
+           familyi={D\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{2}{%
+        {Simon}%
+        {Schuster Paperbacks}%
+      }
+      \strng{namehash}{4a331677e4f34de73e3a6d4504a7d9c5}
+      \strng{fullhash}{4a331677e4f34de73e3a6d4504a7d9c5}
+      \strng{bibnamehash}{4a331677e4f34de73e3a6d4504a7d9c5}
+      \strng{authorbibnamehash}{4a331677e4f34de73e3a6d4504a7d9c5}
+      \strng{authornamehash}{4a331677e4f34de73e3a6d4504a7d9c5}
+      \strng{authorfullhash}{4a331677e4f34de73e3a6d4504a7d9c5}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{pagetotal}{255}
+      \field{title}{God \& The New Physics}
+      \field{year}{2007}
+      \field{dateera}{ce}
+      \keyw{Physics,Religion and science,Religious aspects Christianity}
+    \endentry
+    \entry{de_condorcet_essai_2014}{book}{}
+      \name{author}{1}{}{%
+        {{hash=3690efe2f5463badb1c10c8c3b20ff7f}{%
+           family={De\bibnamedelima Condorcet},
+           familyi={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Nicolas},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{3690efe2f5463badb1c10c8c3b20ff7f}
+      \strng{fullhash}{3690efe2f5463badb1c10c8c3b20ff7f}
+      \strng{bibnamehash}{3690efe2f5463badb1c10c8c3b20ff7f}
+      \strng{authorbibnamehash}{3690efe2f5463badb1c10c8c3b20ff7f}
+      \strng{authornamehash}{3690efe2f5463badb1c10c8c3b20ff7f}
+      \strng{authorfullhash}{3690efe2f5463badb1c10c8c3b20ff7f}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Essai sur l'application de l'analyse à la probabilité des décisions rendues à la pluralité des voix}
+      \field{year}{2014}
+      \field{dateera}{ce}
+    \endentry
+    \entry{dietterich_experimental_2000}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f9a517f99d8450b78124ea4348265e82}{%
+           family={Dietterich},
+           familyi={D\bibinitperiod},
+           given={Thomas\bibnamedelima G.},
+           giveni={T\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{f9a517f99d8450b78124ea4348265e82}
+      \strng{fullhash}{f9a517f99d8450b78124ea4348265e82}
+      \strng{bibnamehash}{f9a517f99d8450b78124ea4348265e82}
+      \strng{authorbibnamehash}{f9a517f99d8450b78124ea4348265e82}
+      \strng{authornamehash}{f9a517f99d8450b78124ea4348265e82}
+      \strng{authorfullhash}{f9a517f99d8450b78124ea4348265e82}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{journaltitle}{Machine Learning}
+      \field{month}{8}
+      \field{number}{2}
+      \field{title}{An Experimental Comparison of Three Methods for Constructing Ensembles of Decision Trees: Bagging, Boosting, and Randomization}
+      \field{volume}{40}
+      \field{year}{2000}
+      \field{dateera}{ce}
+      \field{pages}{139\bibrangedash 157}
+      \range{pages}{19}
+    \endentry
+    \entry{domingos_what_2019}{online}{}
+      \name{author}{1}{}{%
+        {{hash=926269a097c38456f5b32d7efb1d1a80}{%
+           family={Domingos},
+           familyi={D\bibinitperiod},
+           given={Pedro},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{926269a097c38456f5b32d7efb1d1a80}
+      \strng{fullhash}{926269a097c38456f5b32d7efb1d1a80}
+      \strng{bibnamehash}{926269a097c38456f5b32d7efb1d1a80}
+      \strng{authorbibnamehash}{926269a097c38456f5b32d7efb1d1a80}
+      \strng{authornamehash}{926269a097c38456f5b32d7efb1d1a80}
+      \strng{authorfullhash}{926269a097c38456f5b32d7efb1d1a80}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{shorttitle}{What Is Machine Learning?}
+      \field{title}{What Is Machine Learning?}
+      \field{titleaddon}{Intel}
+      \field{urlday}{13}
+      \field{urlmonth}{12}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.intel.com/content/www/in/en/analytics/ai-luminary-pedro-domingos-video.html
+      \endverb
+      \verb{url}
+      \verb https://www.intel.com/content/www/in/en/analytics/ai-luminary-pedro-domingos-video.html
+      \endverb
+    \endentry
+    \entry{drucker_boosting_1994}{article}{}
+      \name{author}{5}{}{%
+        {{hash=e4edd88c0b3e80515990a333458f69a4}{%
+           family={Drucker},
+           familyi={D\bibinitperiod},
+           given={Harris},
+           giveni={H\bibinitperiod}}}%
+        {{hash=17acda211a651e90e228f1776ee07818}{%
+           family={Cortes},
+           familyi={C\bibinitperiod},
+           given={Corinna},
+           giveni={C\bibinitperiod}}}%
+        {{hash=d1aa31ea5533302c18283f093ceec347}{%
+           family={Jackel},
+           familyi={J\bibinitperiod},
+           given={L.\bibnamedelimi D.},
+           giveni={L\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=6a1aa6b7eab12b931ca7c7e3f927231d}{%
+           family={{LeCun}},
+           familyi={L\bibinitperiod},
+           given={Yann},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=c2b3e05872463585b4be6aab10d10d63}{%
+           family={Vapnik},
+           familyi={V\bibinitperiod},
+           given={Vladimir},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{6aca357b0bd6e1c8c1abaa8120229f40}
+      \strng{fullhash}{c5ec9e9ad1292579947c12a229a4a092}
+      \strng{bibnamehash}{c5ec9e9ad1292579947c12a229a4a092}
+      \strng{authorbibnamehash}{c5ec9e9ad1292579947c12a229a4a092}
+      \strng{authornamehash}{6aca357b0bd6e1c8c1abaa8120229f40}
+      \strng{authorfullhash}{c5ec9e9ad1292579947c12a229a4a092}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Neural Computation}
+      \field{month}{11}
+      \field{number}{6}
+      \field{title}{Boosting and Other Ensemble Methods}
+      \field{volume}{6}
+      \field{year}{1994}
+      \field{dateera}{ce}
+      \field{pages}{1289\bibrangedash 1301}
+      \range{pages}{13}
+    \endentry
+    \entry{european_space_agency_esa_2019}{online}{}
+      \name{author}{1}{}{%
+        {{hash=1f71b100224fb1b54ae14e751c4b40fa}{%
+           family={{European Space Agency}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{1f71b100224fb1b54ae14e751c4b40fa}
+      \strng{fullhash}{1f71b100224fb1b54ae14e751c4b40fa}
+      \strng{bibnamehash}{1f71b100224fb1b54ae14e751c4b40fa}
+      \strng{authorbibnamehash}{1f71b100224fb1b54ae14e751c4b40fa}
+      \strng{authornamehash}{1f71b100224fb1b54ae14e751c4b40fa}
+      \strng{authorfullhash}{1f71b100224fb1b54ae14e751c4b40fa}
+      \field{sortinit}{E}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{ESA} Science \& Technology - {NGC} 5257 and {NGC} 5258}
+      \field{titleaddon}{European Space Agency}
+      \field{urlday}{9}
+      \field{urlmonth}{8}
+      \field{urlyear}{2020}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://sci.esa.int/web/hubble/-/42656-ngc-5257-and-ngc-5258
+      \endverb
+      \verb{url}
+      \verb https://sci.esa.int/web/hubble/-/42656-ngc-5257-and-ngc-5258
+      \endverb
+    \endentry
+    \entry{evan_gough_artists_2019}{online}{}
+      \name{author}{2}{}{%
+        {{hash=077a41019fb93952d8d2bdf269548a30}{%
+           family={{Evan Gough}},
+           familyi={E\bibinitperiod}}}%
+        {{hash=8b547a87e45de1e7d14fd2ea841a7447}{%
+           family={{National Astronomical Observatory of Japan (NAOJ)}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{1e09724a1c62dae76f45081871f33f5d}
+      \strng{fullhash}{1e09724a1c62dae76f45081871f33f5d}
+      \strng{bibnamehash}{1e09724a1c62dae76f45081871f33f5d}
+      \strng{authorbibnamehash}{1e09724a1c62dae76f45081871f33f5d}
+      \strng{authornamehash}{1e09724a1c62dae76f45081871f33f5d}
+      \strng{authorfullhash}{1e09724a1c62dae76f45081871f33f5d}
+      \field{sortinit}{E}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{19}
+      \field{month}{6}
+      \field{title}{Artist’s impression of the merging galaxies B14-65666 located 13 billion light-years away.}
+      \field{titleaddon}{Universe Today}
+      \field{urlday}{30}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.universetoday.com/142578/the-earliest-example-of-merging-galaxies-ever-found/
+      \endverb
+      \verb{url}
+      \verb https://www.universetoday.com/142578/the-earliest-example-of-merging-galaxies-ever-found/
+      \endverb
+    \endentry
+    \entry{filippenko_great_2007}{book}{}
+      \name{author}{1}{}{%
+        {{hash=a8bd5bb2402ec15784a91d7264bbf9fb}{%
+           family={Filippenko},
+           familyi={F\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Chantilly, Virginia}%
+      }
+      \list{publisher}{1}{%
+        {The Great Courses}%
+      }
+      \strng{namehash}{a8bd5bb2402ec15784a91d7264bbf9fb}
+      \strng{fullhash}{a8bd5bb2402ec15784a91d7264bbf9fb}
+      \strng{bibnamehash}{a8bd5bb2402ec15784a91d7264bbf9fb}
+      \strng{authorbibnamehash}{a8bd5bb2402ec15784a91d7264bbf9fb}
+      \strng{authornamehash}{a8bd5bb2402ec15784a91d7264bbf9fb}
+      \strng{authorfullhash}{a8bd5bb2402ec15784a91d7264bbf9fb}
+      \field{sortinit}{F}
+      \field{sortinithash}{fb0c0faa89eb6abae8213bf60e6799ea}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{Second Edition}
+      \field{title}{The Great Courses Guidebook - Understanding the Universe: An Introduction to Astronomy}
+      \field{year}{2007}
+      \field{dateera}{ce}
+    \endentry
+    \entry{filippi_multi-layer_1994}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=39ff7c9ed6e4418c79051a273f02eb90}{%
+           family={Filippi},
+           familyi={F\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=24518ac0d57378fb5abf12806e68e4cd}{%
+           family={Costa},
+           familyi={C\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c7df672102103666c16ac2a89dd3dddd}{%
+           family={Pasero},
+           familyi={P\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Orlando, {FL}, {USA}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{587c49072b72fd4aacb12515d325fef9}
+      \strng{fullhash}{587c49072b72fd4aacb12515d325fef9}
+      \strng{bibnamehash}{587c49072b72fd4aacb12515d325fef9}
+      \strng{authorbibnamehash}{587c49072b72fd4aacb12515d325fef9}
+      \strng{authornamehash}{587c49072b72fd4aacb12515d325fef9}
+      \strng{authorfullhash}{587c49072b72fd4aacb12515d325fef9}
+      \field{sortinit}{F}
+      \field{sortinithash}{fb0c0faa89eb6abae8213bf60e6799ea}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of 1994 {IEEE} International Conference on Neural Networks ({ICNN}'94)}
+      \field{eventtitle}{1994 {IEEE} International Conference on Neural Networks ({ICNN}'94)}
+      \field{title}{Multi-layer perceptron ensembles for increased performance and fault-tolerance in pattern recognition tasks}
+      \field{volume}{5}
+      \field{year}{1994}
+      \field{dateera}{ce}
+      \field{pages}{2901\bibrangedash 2906}
+      \range{pages}{6}
+    \endentry
+    \entry{guttag_introduction_2016}{book}{}
+      \name{author}{1}{}{%
+        {{hash=f81cd6997c90145de6eca30657467351}{%
+           family={Guttag},
+           familyi={G\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, Massachusetts}%
+      }
+      \list{publisher}{1}{%
+        {The {MIT} Press}%
+      }
+      \strng{namehash}{f81cd6997c90145de6eca30657467351}
+      \strng{fullhash}{f81cd6997c90145de6eca30657467351}
+      \strng{bibnamehash}{f81cd6997c90145de6eca30657467351}
+      \strng{authorbibnamehash}{f81cd6997c90145de6eca30657467351}
+      \strng{authornamehash}{f81cd6997c90145de6eca30657467351}
+      \strng{authorfullhash}{f81cd6997c90145de6eca30657467351}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2nd}
+      \field{title}{Introduction to Computation and Programming using Python: With Application to Understanding Data}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \keyw{Python (Computer program language),Computer programming,Textbooks}
+    \endentry
+    \entry{guyer_cambridge_1992}{collection}{}
+      \name{editor}{1}{}{%
+        {{hash=c423398aca71ebdb330616f7cde1681e}{%
+           family={Guyer},
+           familyi={G\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{c423398aca71ebdb330616f7cde1681e}
+      \strng{fullhash}{c423398aca71ebdb330616f7cde1681e}
+      \strng{bibnamehash}{c423398aca71ebdb330616f7cde1681e}
+      \strng{editorbibnamehash}{c423398aca71ebdb330616f7cde1681e}
+      \strng{editornamehash}{c423398aca71ebdb330616f7cde1681e}
+      \strng{editorfullhash}{c423398aca71ebdb330616f7cde1681e}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{day}{31}
+      \field{edition}{1}
+      \field{month}{1}
+      \field{title}{The Cambridge Companion to Kant}
+      \field{year}{1992}
+      \field{dateera}{ce}
+    \endentry
+    \entry{haindl_multiple_2007}{collection}{}
+      \name{editor}{3}{}{%
+        {{hash=14b48fd063275ead8bb597b0913b3c85}{%
+           family={Haindl},
+           familyi={H\bibinitperiod},
+           given={Michal},
+           giveni={M\bibinitperiod}}}%
+        {{hash=9dd3a56c94774f5880ca7475fdc308ea}{%
+           family={Kittler},
+           familyi={K\bibinitperiod},
+           given={Josef},
+           giveni={J\bibinitperiod}}}%
+        {{hash=19ca143efaaea0b22bc6fad56e333cc5}{%
+           family={Roli},
+           familyi={R\bibinitperiod},
+           given={Fabio},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer-Verlag}%
+      }
+      \strng{namehash}{d08d09239955a61887ff1d4f963125a6}
+      \strng{fullhash}{d08d09239955a61887ff1d4f963125a6}
+      \strng{bibnamehash}{d08d09239955a61887ff1d4f963125a6}
+      \strng{editorbibnamehash}{d08d09239955a61887ff1d4f963125a6}
+      \strng{editornamehash}{d08d09239955a61887ff1d4f963125a6}
+      \strng{editorfullhash}{d08d09239955a61887ff1d4f963125a6}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{series}{Image Processing, Computer Vision, Pattern Recognition, and Graphics}
+      \field{title}{Multiple Classifier Systems: 7th International Workshop, {MCS} 2007, Prague, Czech Republic, May 23-25, 2007, Proceedings}
+      \field{year}{2007}
+      \field{dateera}{ce}
+    \endentry
+    \entry{bunke_multiple_2002}{inbook}{}
+      \name{author}{1}{}{%
+        {{hash=bd8f33685f26fc02be5f9e5ffb9fe0ed}{%
+           family={Ho},
+           familyi={H\bibinitperiod},
+           given={Tin\bibnamedelima Kam},
+           giveni={T\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \name{bookauthor}{2}{}{%
+        {{hash=60fc725664d2ba1eca9fed17c8919730}{%
+           family={Bunke},
+           familyi={B\bibinitperiod},
+           given={H},
+           giveni={H\bibinitperiod}}}%
+        {{hash=4ed701f9f5e48045ab1858c6973bd7af}{%
+           family={Kandel},
+           familyi={K\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {World Scientific}%
+      }
+      \strng{namehash}{bd8f33685f26fc02be5f9e5ffb9fe0ed}
+      \strng{fullhash}{bd8f33685f26fc02be5f9e5ffb9fe0ed}
+      \strng{bibnamehash}{bd8f33685f26fc02be5f9e5ffb9fe0ed}
+      \strng{authorbibnamehash}{bd8f33685f26fc02be5f9e5ffb9fe0ed}
+      \strng{authornamehash}{bd8f33685f26fc02be5f9e5ffb9fe0ed}
+      \strng{authorfullhash}{bd8f33685f26fc02be5f9e5ffb9fe0ed}
+      \strng{bookauthorbibnamehash}{2a8a7f6d56c81a9faeea662b86521534}
+      \strng{bookauthornamehash}{2a8a7f6d56c81a9faeea662b86521534}
+      \strng{bookauthorfullhash}{2a8a7f6d56c81a9faeea662b86521534}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Series in Machine Perception and Artificial Intelligence}
+      \field{month}{5}
+      \field{title}{Multiple Classifier Combination: Lessons and Next Steps}
+      \field{volume}{47}
+      \field{year}{2002}
+      \field{dateera}{ce}
+      \field{pages}{171\bibrangedash 198}
+      \range{pages}{28}
+    \endentry
+    \entry{hubble_relation_1929}{article}{}
+      \name{author}{1}{}{%
+        {{hash=095a52969f0b95a9824841c15cc59106}{%
+           family={Hubble},
+           familyi={H\bibinitperiod},
+           given={Edwin},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{095a52969f0b95a9824841c15cc59106}
+      \strng{fullhash}{095a52969f0b95a9824841c15cc59106}
+      \strng{bibnamehash}{095a52969f0b95a9824841c15cc59106}
+      \strng{authorbibnamehash}{095a52969f0b95a9824841c15cc59106}
+      \strng{authornamehash}{095a52969f0b95a9824841c15cc59106}
+      \strng{authorfullhash}{095a52969f0b95a9824841c15cc59106}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{15}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{month}{3}
+      \field{number}{3}
+      \field{title}{A relation between distance and radial velocity among extra-galactic nebulae}
+      \field{volume}{15}
+      \field{year}{1929}
+      \field{dateera}{ce}
+      \field{pages}{168\bibrangedash 173}
+      \range{pages}{6}
+    \endentry
+    \entry{hubble_realm_2013}{book}{}
+      \name{author}{3}{}{%
+        {{hash=095a52969f0b95a9824841c15cc59106}{%
+           family={Hubble},
+           familyi={H\bibinitperiod},
+           given={Edwin},
+           giveni={E\bibinitperiod}}}%
+        {{hash=7427780d3666fb948493e544dc3be2ed}{%
+           family={Kirshner},
+           familyi={K\bibinitperiod},
+           given={Robert\bibnamedelima P.},
+           giveni={R\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=a21efd7d6f43a778b4bd8bd5cf50c950}{%
+           family={Carroll},
+           familyi={C\bibinitperiod},
+           given={Sean\bibnamedelima M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New Haven}%
+      }
+      \list{publisher}{1}{%
+        {Yale University Press}%
+      }
+      \strng{namehash}{7f0ec70913ba21b3c180b41c4eb16d65}
+      \strng{fullhash}{7f0ec70913ba21b3c180b41c4eb16d65}
+      \strng{bibnamehash}{7f0ec70913ba21b3c180b41c4eb16d65}
+      \strng{authorbibnamehash}{7f0ec70913ba21b3c180b41c4eb16d65}
+      \strng{authornamehash}{7f0ec70913ba21b3c180b41c4eb16d65}
+      \strng{authorfullhash}{7f0ec70913ba21b3c180b41c4eb16d65}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Mrs. Hepsa Ely Silliman Memorial Lectures}
+      \field{title}{The Realm of the Nebulae}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \keyw{Nebulae}
+    \endentry
+    \entry{ieee_computer_society_digital_liibrary_ieee_1999}{online}{}
+      \name{author}{1}{}{%
+        {{hash=29f6e0c5aa6f49db40d5a1e85cc1a0ba}{%
+           family={{IEEE Computer Society Digital Liibrary}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{29f6e0c5aa6f49db40d5a1e85cc1a0ba}
+      \strng{fullhash}{29f6e0c5aa6f49db40d5a1e85cc1a0ba}
+      \strng{bibnamehash}{29f6e0c5aa6f49db40d5a1e85cc1a0ba}
+      \strng{authorbibnamehash}{29f6e0c5aa6f49db40d5a1e85cc1a0ba}
+      \strng{authornamehash}{29f6e0c5aa6f49db40d5a1e85cc1a0ba}
+      \strng{authorfullhash}{29f6e0c5aa6f49db40d5a1e85cc1a0ba}
+      \field{sortinit}{I}
+      \field{sortinithash}{9417e9a1288a9371e2691d999083ed39}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{IEEE} Computer Society Digital Liibrary}
+      \field{titleaddon}{The Sloan Digital Sky Survey}
+      \field{urlday}{10}
+      \field{urlmonth}{10}
+      \field{urlyear}{2019}
+      \field{year}{1999}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://csdl-images.computer.org/mags/cs/1999/02/figures/c20541.gif
+      \endverb
+      \verb{url}
+      \verb https://csdl-images.computer.org/mags/cs/1999/02/figures/c20541.gif
+      \endverb
+    \endentry
+    \entry{ivezic_statistics_2014}{collection}{}
+      \name{editor}{4}{}{%
+        {{hash=5b1e1665d571777dd6b6f77868790be6}{%
+           family={Ivezić},
+           familyi={I\bibinitperiod},
+           given={Ž‌eljko},
+           giveni={Ž\bibinitperiod}}}%
+        {{hash=000863cde2ca37e584e49a49ae881340}{%
+           family={Connolly},
+           familyi={C\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a5983c7fece954de36ec464381877b44}{%
+           family={{VanderPlas}},
+           familyi={V\bibinitperiod},
+           given={Jacob\bibnamedelima T.},
+           giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=a263cec8e9c2448c55c8a3ccad6ea03d}{%
+           family={Gray},
+           familyi={G\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Princeton, N.J}%
+      }
+      \list{publisher}{1}{%
+        {Princeton University Press}%
+      }
+      \strng{namehash}{9965c237ed9fcc8de8e46dc5e8e85f24}
+      \strng{fullhash}{80ab0900c355e1936b2e69e7463c03ef}
+      \strng{bibnamehash}{80ab0900c355e1936b2e69e7463c03ef}
+      \strng{editorbibnamehash}{80ab0900c355e1936b2e69e7463c03ef}
+      \strng{editornamehash}{9965c237ed9fcc8de8e46dc5e8e85f24}
+      \strng{editorfullhash}{80ab0900c355e1936b2e69e7463c03ef}
+      \field{sortinit}{I}
+      \field{sortinithash}{9417e9a1288a9371e2691d999083ed39}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{note}{{OCLC}: ocn841893567}
+      \field{series}{Princeton Series in Modern Observational Astronomy}
+      \field{title}{Statistics, Data mining, and Machine Learning in Astronomy: A Practical Python Guide for The Analysis of Survey Data}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \keyw{Astronomy,Data processing,Statistical astronomy}
+    \endentry
+    \entry{jet_propulsion_laboratory_california_institute_of_technology_home_2019}{online}{}
+      \name{author}{1}{}{%
+        {{hash=63ffcfa998c7156d76dbe387bedca70c}{%
+           family={Jet\bibnamedelimb Propulsion\bibnamedelima Laboratory},
+           familyi={J\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={California\bibnamedelimb Institute\bibnamedelimb of\bibnamedelima Technology},
+           giveni={C\bibinitperiod\bibinitdelim I\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \strng{namehash}{63ffcfa998c7156d76dbe387bedca70c}
+      \strng{fullhash}{63ffcfa998c7156d76dbe387bedca70c}
+      \strng{bibnamehash}{63ffcfa998c7156d76dbe387bedca70c}
+      \strng{authorbibnamehash}{63ffcfa998c7156d76dbe387bedca70c}
+      \strng{authornamehash}{63ffcfa998c7156d76dbe387bedca70c}
+      \strng{authorfullhash}{63ffcfa998c7156d76dbe387bedca70c}
+      \field{sortinit}{J}
+      \field{sortinithash}{c45040a764d616897e7f5b30174d7b92}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{{NASA}}
+      \field{title}{Home {|} {NASA}/{IPAC} Extragalactic Database}
+      \field{titleaddon}{{NED}}
+      \field{urlday}{29}
+      \field{urlmonth}{7}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://ned.ipac.caltech.edu/
+      \endverb
+      \verb{url}
+      \verb https://ned.ipac.caltech.edu/
+      \endverb
+    \endentry
+    \entry{kant_kant:_2012}{book}{}
+      \name{author}{1}{}{%
+        {{hash=e1e09a59acd7633f469747be85d5edc0}{%
+           family={Kant},
+           familyi={K\bibinitperiod},
+           given={Immanuel},
+           giveni={I\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=9f5f16da879bb16dfb96a8135b7045af}{%
+           family={Watkins},
+           familyi={W\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{e1e09a59acd7633f469747be85d5edc0}
+      \strng{fullhash}{e1e09a59acd7633f469747be85d5edc0}
+      \strng{bibnamehash}{e1e09a59acd7633f469747be85d5edc0}
+      \strng{authorbibnamehash}{e1e09a59acd7633f469747be85d5edc0}
+      \strng{authornamehash}{e1e09a59acd7633f469747be85d5edc0}
+      \strng{authorfullhash}{e1e09a59acd7633f469747be85d5edc0}
+      \strng{editorbibnamehash}{9f5f16da879bb16dfb96a8135b7045af}
+      \strng{editornamehash}{9f5f16da879bb16dfb96a8135b7045af}
+      \strng{editorfullhash}{9f5f16da879bb16dfb96a8135b7045af}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Kant: Natural Science}
+      \field{year}{2012}
+      \field{dateera}{ce}
+    \endentry
+    \entry{kittler_combining_1998}{article}{}
+      \name{author}{4}{}{%
+        {{hash=8b1ad4bf7448b2d65fceb4ba23af46f2}{%
+           family={Kittler},
+           familyi={K\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=ff5fc943eb23c5b2bcd360703eed2f11}{%
+           family={Hatef},
+           familyi={H\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=9a71bc502b03918494e1d697f72d69be}{%
+           family={Duin},
+           familyi={D\bibinitperiod},
+           given={R.P.W.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=5dddb4650d6e907c5c563849c0b74d13}{%
+           family={Matas},
+           familyi={M\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{567a931ed66ead3d345ef3255c758e54}
+      \strng{fullhash}{a6efcd0ec461ebbcc8e2ef397316b786}
+      \strng{bibnamehash}{a6efcd0ec461ebbcc8e2ef397316b786}
+      \strng{authorbibnamehash}{a6efcd0ec461ebbcc8e2ef397316b786}
+      \strng{authornamehash}{567a931ed66ead3d345ef3255c758e54}
+      \strng{authorfullhash}{a6efcd0ec461ebbcc8e2ef397316b786}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{IEEE} Transactions on Pattern Analysis and Machine Intelligence}
+      \field{month}{3}
+      \field{number}{3}
+      \field{title}{On combining classifiers}
+      \field{volume}{20}
+      \field{year}{1998}
+      \field{dateera}{ce}
+      \field{pages}{226\bibrangedash 239}
+      \range{pages}{14}
+    \endentry
+    \entry{kleinberg_algorithmic_2000}{article}{}
+      \name{author}{1}{}{%
+        {{hash=ed3c64e1261eccc0b2d078624c9915f2}{%
+           family={Kleinberg},
+           familyi={K\bibinitperiod},
+           given={E.M.},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{ed3c64e1261eccc0b2d078624c9915f2}
+      \strng{fullhash}{ed3c64e1261eccc0b2d078624c9915f2}
+      \strng{bibnamehash}{ed3c64e1261eccc0b2d078624c9915f2}
+      \strng{authorbibnamehash}{ed3c64e1261eccc0b2d078624c9915f2}
+      \strng{authornamehash}{ed3c64e1261eccc0b2d078624c9915f2}
+      \strng{authorfullhash}{ed3c64e1261eccc0b2d078624c9915f2}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{IEEE} Transactions on Pattern Analysis and Machine Intelligence}
+      \field{month}{5}
+      \field{number}{5}
+      \field{title}{On the algorithmic implementation of stochastic discrimination}
+      \field{volume}{22}
+      \field{year}{2000}
+      \field{dateera}{ce}
+      \field{pages}{473\bibrangedash 490}
+      \range{pages}{18}
+    \endentry
+    \entry{kuncheva_combining_2014}{book}{}
+      \name{author}{1}{}{%
+        {{hash=aefa6c40c8d68bde7c918ffcf215bf2d}{%
+           family={Kuncheva},
+           familyi={K\bibinitperiod},
+           given={Ludmila\bibnamedelima Ilieva},
+           giveni={L\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Hoboken, {NJ}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{aefa6c40c8d68bde7c918ffcf215bf2d}
+      \strng{fullhash}{aefa6c40c8d68bde7c918ffcf215bf2d}
+      \strng{bibnamehash}{aefa6c40c8d68bde7c918ffcf215bf2d}
+      \strng{authorbibnamehash}{aefa6c40c8d68bde7c918ffcf215bf2d}
+      \strng{authornamehash}{aefa6c40c8d68bde7c918ffcf215bf2d}
+      \strng{authorfullhash}{aefa6c40c8d68bde7c918ffcf215bf2d}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2}
+      \field{pagetotal}{357}
+      \field{title}{Combining pattern classifiers: methods and algorithms}
+      \field{year}{2014}
+      \field{dateera}{ce}
+    \endentry
+    \entry{lahav_galaxies_1995}{article}{}
+      \name{author}{11}{}{%
+        {{hash=3865819e552b81940d98fb15e9b8afbc}{%
+           family={Lahav},
+           familyi={L\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod}}}%
+        {{hash=54a78cb78aff3805e1a06ece0853e7da}{%
+           family={Naim},
+           familyi={N\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=7f1f8833f2f88347f68d98d8ac33843f}{%
+           family={Buta},
+           familyi={B\bibinitperiod},
+           given={R.\bibnamedelimi J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=282435a14e6369815983a105b6a84152}{%
+           family={Corwin},
+           familyi={C\bibinitperiod},
+           given={H.\bibnamedelimi G.},
+           giveni={H\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=d972b300262541cf33f0c69604a9bd7e}{%
+           family={Vaucouleurs},
+           familyi={V\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=69bafc14f4c68d574f9888474dec1a49}{%
+           family={Dressler},
+           familyi={D\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=93d743b838cd363453ef893b16f8c7fb}{%
+           family={Huchra},
+           familyi={H\bibinitperiod},
+           given={J.\bibnamedelimi P.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=d01f69a1be4473555c67ba1ea6768e0b}{%
+           family={Bergh},
+           familyi={B\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           prefix={van\bibnamedelima den},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+        {{hash=eb7259ba27482aaca5accb6818908932}{%
+           family={Raychaudhury},
+           familyi={R\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=8f99d6c8c3d245a6fff0f39abf603eef}{%
+           family={Sodre},
+           familyi={S\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=1f088b38cfe2ac3b6e1bad621aeecf37}{%
+           family={Storrie-Lombardi},
+           familyi={S\bibinithyphendelim L\bibinitperiod},
+           given={M.\bibnamedelimi C.},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{92b568494b7ec8584b24cf70ebcf5492}
+      \strng{fullhash}{6f6ba58293be40b4b165cfef783cef73}
+      \strng{bibnamehash}{6f6ba58293be40b4b165cfef783cef73}
+      \strng{authorbibnamehash}{6f6ba58293be40b4b165cfef783cef73}
+      \strng{authornamehash}{92b568494b7ec8584b24cf70ebcf5492}
+      \strng{authorfullhash}{6f6ba58293be40b4b165cfef783cef73}
+      \field{sortinit}{L}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{10}
+      \field{journaltitle}{Science}
+      \field{month}{2}
+      \field{number}{5199}
+      \field{title}{Galaxies, Human Eyes, and Artificial Neural Networks}
+      \field{volume}{267}
+      \field{year}{1995}
+      \field{dateera}{ce}
+      \field{pages}{859\bibrangedash 862}
+      \range{pages}{4}
+    \endentry
+    \entry{lam_optimal_1995}{article}{}
+      \name{author}{2}{}{%
+        {{hash=bc16bbac148333366dff9ac3ec2b4038}{%
+           family={Lam},
+           familyi={L\bibinitperiod},
+           given={Louisa},
+           giveni={L\bibinitperiod}}}%
+        {{hash=66ba394db8e78c8659d0d4cfc14a528d}{%
+           family={Suen},
+           familyi={S\bibinitperiod},
+           given={Ching\bibnamedelima Y.},
+           giveni={C\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{0c93d1b72948e73bd2e82729d54b4db7}
+      \strng{fullhash}{0c93d1b72948e73bd2e82729d54b4db7}
+      \strng{bibnamehash}{0c93d1b72948e73bd2e82729d54b4db7}
+      \strng{authorbibnamehash}{0c93d1b72948e73bd2e82729d54b4db7}
+      \strng{authornamehash}{0c93d1b72948e73bd2e82729d54b4db7}
+      \strng{authorfullhash}{0c93d1b72948e73bd2e82729d54b4db7}
+      \field{sortinit}{L}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Pattern Recognition Letters}
+      \field{month}{9}
+      \field{number}{9}
+      \field{title}{Optimal combinations of pattern classifiers}
+      \field{volume}{16}
+      \field{year}{1995}
+      \field{dateera}{ce}
+      \field{pages}{945\bibrangedash 954}
+      \range{pages}{10}
+    \endentry
+    \entry{liitiainen_residual_2009}{article}{}
+      \name{author}{4}{}{%
+        {{hash=35d45bc97125b9c09bfb9a7a29586c88}{%
+           family={Liitiäinen},
+           familyi={L\bibinitperiod},
+           given={Elia},
+           giveni={E\bibinitperiod}}}%
+        {{hash=88691a3c06eb4d21eecbf7a3688cfc6b}{%
+           family={Verleysen},
+           familyi={V\bibinitperiod},
+           given={Michel},
+           giveni={M\bibinitperiod}}}%
+        {{hash=4f9e2b5e89dfed562408387ef69f5e29}{%
+           family={Corona},
+           familyi={C\bibinitperiod},
+           given={Francesco},
+           giveni={F\bibinitperiod}}}%
+        {{hash=775fd550bdab2fd74a32d4ba239f8499}{%
+           family={Lendasse},
+           familyi={L\bibinitperiod},
+           given={Amaury},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{024485b39eabc1fc13e767f563fb8f7b}
+      \strng{fullhash}{6c2285a4a930799f091a4352f2a5ff0c}
+      \strng{bibnamehash}{6c2285a4a930799f091a4352f2a5ff0c}
+      \strng{authorbibnamehash}{6c2285a4a930799f091a4352f2a5ff0c}
+      \strng{authornamehash}{024485b39eabc1fc13e767f563fb8f7b}
+      \strng{authorfullhash}{6c2285a4a930799f091a4352f2a5ff0c}
+      \field{sortinit}{L}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Neurocomputing}
+      \field{month}{10}
+      \field{number}{16}
+      \field{title}{Residual variance estimation in machine learning}
+      \field{volume}{72}
+      \field{year}{2009}
+      \field{dateera}{ce}
+      \field{pages}{3692\bibrangedash 3703}
+      \range{pages}{12}
+    \endentry
+    \entry{lintott_galaxy_2008}{article}{}
+      \name{author}{12}{}{%
+        {{hash=fbccd724a92f34e557ae8367cec29ca6}{%
+           family={Lintott},
+           familyi={L\bibinitperiod},
+           given={Chris\bibnamedelima J.},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=2396f6fdd509ea8a2e3d2f4e42fbff93}{%
+           family={Schawinski},
+           familyi={S\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=beb3f859a96da33927cb568b795add6c}{%
+           family={Slosar},
+           familyi={S\bibinitperiod},
+           given={Anže},
+           giveni={A\bibinitperiod}}}%
+        {{hash=981a642785d0763ff614b0c9c4ff98c6}{%
+           family={Land},
+           familyi={L\bibinitperiod},
+           given={Kate},
+           giveni={K\bibinitperiod}}}%
+        {{hash=a97e33e03bba841fafbf45058efe3d14}{%
+           family={Bamford},
+           familyi={B\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod}}}%
+        {{hash=2e18b61a751fdde46148cb94a3467b4e}{%
+           family={Thomas},
+           familyi={T\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=55e459eb2adafecf359131f6d071fa3b}{%
+           family={Raddick},
+           familyi={R\bibinitperiod},
+           given={M.\bibnamedelimi Jordan},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=fb744917055d6fd29ef96dd064cc60d2}{%
+           family={Nichol},
+           familyi={N\bibinitperiod},
+           given={Robert\bibnamedelima C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=cb389ed2acfb8947ecfd2cf113cc3d5c}{%
+           family={Szalay},
+           familyi={S\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b1d2e9f9c1700229a03227e09edd68c3}{%
+           family={Andreescu},
+           familyi={A\bibinitperiod},
+           given={Dan},
+           giveni={D\bibinitperiod}}}%
+        {{hash=b0959dbbe9b2d12993e7adf103d1617b}{%
+           family={Murray},
+           familyi={M\bibinitperiod},
+           given={Phil},
+           giveni={P\bibinitperiod}}}%
+        {{hash=bd4d5d069b85ec79d4d84b803e9ba183}{%
+           family={Vandenberg},
+           familyi={V\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{ae0949f8f0e15a90929be70041731701}
+      \strng{fullhash}{49498270e0645fd73336b2b943e53aa9}
+      \strng{bibnamehash}{49498270e0645fd73336b2b943e53aa9}
+      \strng{authorbibnamehash}{49498270e0645fd73336b2b943e53aa9}
+      \strng{authornamehash}{ae0949f8f0e15a90929be70041731701}
+      \strng{authorfullhash}{49498270e0645fd73336b2b943e53aa9}
+      \field{sortinit}{L}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{21}
+      \field{journaltitle}{Monthly Notices of the Royal Astronomical Society}
+      \field{month}{9}
+      \field{number}{3}
+      \field{title}{Galaxy Zoo: morphologies derived from visual inspection of galaxies from the Sloan Digital Sky Survey}
+      \field{volume}{389}
+      \field{year}{2008}
+      \field{dateera}{ce}
+      \field{pages}{1179\bibrangedash 1189}
+      \range{pages}{11}
+    \endentry
+    \entry{lintott_galaxy_2011}{article}{}
+      \name{author}{14}{}{%
+        {{hash=bf72b3539afdfc48eeab01e125a54db6}{%
+           family={Lintott},
+           familyi={L\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod}}}%
+        {{hash=2396f6fdd509ea8a2e3d2f4e42fbff93}{%
+           family={Schawinski},
+           familyi={S\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=a97e33e03bba841fafbf45058efe3d14}{%
+           family={Bamford},
+           familyi={B\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod}}}%
+        {{hash=beb3f859a96da33927cb568b795add6c}{%
+           family={Slosar},
+           familyi={S\bibinitperiod},
+           given={Anže},
+           giveni={A\bibinitperiod}}}%
+        {{hash=981a642785d0763ff614b0c9c4ff98c6}{%
+           family={Land},
+           familyi={L\bibinitperiod},
+           given={Kate},
+           giveni={K\bibinitperiod}}}%
+        {{hash=2e18b61a751fdde46148cb94a3467b4e}{%
+           family={Thomas},
+           familyi={T\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=3f35a986fb04163af996322c110f5c7a}{%
+           family={Edmondson},
+           familyi={E\bibinitperiod},
+           given={Edd},
+           giveni={E\bibinitperiod}}}%
+        {{hash=64dfe4028d2f550a20674a51584dc084}{%
+           family={Masters},
+           familyi={M\bibinitperiod},
+           given={Karen},
+           giveni={K\bibinitperiod}}}%
+        {{hash=fb744917055d6fd29ef96dd064cc60d2}{%
+           family={Nichol},
+           familyi={N\bibinitperiod},
+           given={Robert\bibnamedelima C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=55e459eb2adafecf359131f6d071fa3b}{%
+           family={Raddick},
+           familyi={R\bibinitperiod},
+           given={M.\bibnamedelimi Jordan},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=cb389ed2acfb8947ecfd2cf113cc3d5c}{%
+           family={Szalay},
+           familyi={S\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b1d2e9f9c1700229a03227e09edd68c3}{%
+           family={Andreescu},
+           familyi={A\bibinitperiod},
+           given={Dan},
+           giveni={D\bibinitperiod}}}%
+        {{hash=b0959dbbe9b2d12993e7adf103d1617b}{%
+           family={Murray},
+           familyi={M\bibinitperiod},
+           given={Phil},
+           giveni={P\bibinitperiod}}}%
+        {{hash=bd4d5d069b85ec79d4d84b803e9ba183}{%
+           family={Vandenberg},
+           familyi={V\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{438722be410ff48ec5e9b313829d0658}
+      \strng{fullhash}{c05710d7ea06ca8289f7f8e989f77c41}
+      \strng{bibnamehash}{c05710d7ea06ca8289f7f8e989f77c41}
+      \strng{authorbibnamehash}{c05710d7ea06ca8289f7f8e989f77c41}
+      \strng{authornamehash}{438722be410ff48ec5e9b313829d0658}
+      \strng{authorfullhash}{c05710d7ea06ca8289f7f8e989f77c41}
+      \field{sortinit}{L}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{journaltitle}{Monthly Notices of the Royal Astronomical Society}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{Galaxy Zoo 1: data release of morphological classifications for nearly 900 000 galaxies}
+      \field{volume}{410}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \field{pages}{166\bibrangedash 178}
+      \range{pages}{13}
+    \endentry
+    \entry{mccarthy_memoriam:_1990}{article}{}
+      \name{author}{2}{}{%
+        {{hash=627c3779677d0eaf3312e5b67e8cbe0c}{%
+           family={{McCarthy}},
+           familyi={M\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{hash=87f42beb47067c0a7a5f566b08908a5c}{%
+           family={Feigenbaum},
+           familyi={F\bibinitperiod},
+           given={Edward\bibnamedelima A.},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{9bc654fba006a1cb81442e6b0bc9700c}
+      \strng{fullhash}{9bc654fba006a1cb81442e6b0bc9700c}
+      \strng{bibnamehash}{9bc654fba006a1cb81442e6b0bc9700c}
+      \strng{authorbibnamehash}{9bc654fba006a1cb81442e6b0bc9700c}
+      \strng{authornamehash}{9bc654fba006a1cb81442e6b0bc9700c}
+      \strng{authorfullhash}{9bc654fba006a1cb81442e6b0bc9700c}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{15}
+      \field{journaltitle}{{AI} Magazine}
+      \field{month}{9}
+      \field{number}{3}
+      \field{title}{In Memoriam: Arthur Samuel: Pioneer in Machine Learning}
+      \field{volume}{11}
+      \field{year}{1990}
+      \field{dateera}{ce}
+      \field{pages}{10\bibrangedash 10}
+      \range{pages}{1}
+    \endentry
+    \entry{mitchell_machine_1997}{book}{}
+      \name{author}{1}{}{%
+        {{hash=d331eeb7f00e650950ccadcb9c47efec}{%
+           family={Mitchell},
+           familyi={M\bibinitperiod},
+           given={Tom\bibnamedelima M.},
+           giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {{McGraw}-Hill}%
+      }
+      \strng{namehash}{d331eeb7f00e650950ccadcb9c47efec}
+      \strng{fullhash}{d331eeb7f00e650950ccadcb9c47efec}
+      \strng{bibnamehash}{d331eeb7f00e650950ccadcb9c47efec}
+      \strng{authorbibnamehash}{d331eeb7f00e650950ccadcb9c47efec}
+      \strng{authornamehash}{d331eeb7f00e650950ccadcb9c47efec}
+      \strng{authorfullhash}{d331eeb7f00e650950ccadcb9c47efec}
+      \field{extraname}{1}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Machine Learning}
+      \field{year}{1997}
+      \field{dateera}{ce}
+      \keyw{Computer algorithms,Machine learning}
+    \endentry
+    \entry{mitchell_machine_1999}{article}{}
+      \name{author}{1}{}{%
+        {{hash=d331eeb7f00e650950ccadcb9c47efec}{%
+           family={Mitchell},
+           familyi={M\bibinitperiod},
+           given={Tom\bibnamedelima M.},
+           giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{d331eeb7f00e650950ccadcb9c47efec}
+      \strng{fullhash}{d331eeb7f00e650950ccadcb9c47efec}
+      \strng{bibnamehash}{d331eeb7f00e650950ccadcb9c47efec}
+      \strng{authorbibnamehash}{d331eeb7f00e650950ccadcb9c47efec}
+      \strng{authornamehash}{d331eeb7f00e650950ccadcb9c47efec}
+      \strng{authorfullhash}{d331eeb7f00e650950ccadcb9c47efec}
+      \field{extraname}{2}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{journaltitle}{Communications of the {ACM}}
+      \field{month}{11}
+      \field{number}{11}
+      \field{title}{Machine learning and data mining}
+      \field{volume}{42}
+      \field{year}{1999}
+      \field{dateera}{ce}
+      \field{pages}{30\bibrangedash 36}
+      \range{pages}{7}
+    \endentry
+    \entry{nasa_active_2016}{online}{}
+      \name{author}{1}{}{%
+        {{hash=1f99771bc3e23e6097509a331544ab65}{%
+           family={{NASA}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{1f99771bc3e23e6097509a331544ab65}
+      \strng{fullhash}{1f99771bc3e23e6097509a331544ab65}
+      \strng{bibnamehash}{1f99771bc3e23e6097509a331544ab65}
+      \strng{authorbibnamehash}{1f99771bc3e23e6097509a331544ab65}
+      \strng{authornamehash}{1f99771bc3e23e6097509a331544ab65}
+      \strng{authorfullhash}{1f99771bc3e23e6097509a331544ab65}
+      \field{sortinit}{N}
+      \field{sortinithash}{98cf339a479c0454fe09153a08675a15}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Active Galaxies and Quasars - Introduction}
+      \field{urlday}{18}
+      \field{urlmonth}{8}
+      \field{urlyear}{2019}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://imagine.gsfc.nasa.gov/science/objects/active_galaxies1.html
+      \endverb
+      \verb{url}
+      \verb https://imagine.gsfc.nasa.gov/science/objects/active_galaxies1.html
+      \endverb
+    \endentry
+    \entry{nasa/goddard_space_flight_center_conceptual_image_lab_active_2008}{artwork}{}
+      \name{author}{1}{}{%
+        {{hash=72a38929392b4654e55a7c7a5e7f43ee}{%
+           family={{NASA/Goddard Space Flight Center Conceptual Image Lab}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{72a38929392b4654e55a7c7a5e7f43ee}
+      \strng{fullhash}{72a38929392b4654e55a7c7a5e7f43ee}
+      \strng{bibnamehash}{72a38929392b4654e55a7c7a5e7f43ee}
+      \strng{authorbibnamehash}{72a38929392b4654e55a7c7a5e7f43ee}
+      \strng{authornamehash}{72a38929392b4654e55a7c7a5e7f43ee}
+      \strng{authorfullhash}{72a38929392b4654e55a7c7a5e7f43ee}
+      \field{sortinit}{N}
+      \field{sortinithash}{98cf339a479c0454fe09153a08675a15}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Active Galactic Nucleus}
+      \field{year}{2008}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb http://svs.gsfc.nasa.gov/20135
+      \endverb
+      \verb{url}
+      \verb http://svs.gsfc.nasa.gov/20135
+      \endverb
+    \endentry
+    \entry{nasa/jpl_milky_2019}{online}{}
+      \name{author}{1}{}{%
+        {{hash=7a57f79b6647d4b0dbc7d88f455738df}{%
+           family={{NASA/JPL}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{7a57f79b6647d4b0dbc7d88f455738df}
+      \strng{fullhash}{7a57f79b6647d4b0dbc7d88f455738df}
+      \strng{bibnamehash}{7a57f79b6647d4b0dbc7d88f455738df}
+      \strng{authorbibnamehash}{7a57f79b6647d4b0dbc7d88f455738df}
+      \strng{authornamehash}{7a57f79b6647d4b0dbc7d88f455738df}
+      \strng{authorfullhash}{7a57f79b6647d4b0dbc7d88f455738df}
+      \field{sortinit}{N}
+      \field{sortinithash}{98cf339a479c0454fe09153a08675a15}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Milky Way Galaxy}
+      \field{titleaddon}{{NASA}-Solar System Exploration}
+      \field{urlday}{9}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://solarsystem.nasa.gov/resources/285/the-milky-way-galaxy/
+      \endverb
+      \verb{url}
+      \verb https://solarsystem.nasa.gov/resources/285/the-milky-way-galaxy/
+      \endverb
+    \endentry
+    \entry{nasajpl_caltech_pinwheel_2017}{online}{}
+      \name{author}{1}{}{%
+        {{hash=f8bae46e3eb577701307eb5881d1d048}{%
+           family={{NASA/JPL Caltech}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{f8bae46e3eb577701307eb5881d1d048}
+      \strng{fullhash}{f8bae46e3eb577701307eb5881d1d048}
+      \strng{bibnamehash}{f8bae46e3eb577701307eb5881d1d048}
+      \strng{authorbibnamehash}{f8bae46e3eb577701307eb5881d1d048}
+      \strng{authornamehash}{f8bae46e3eb577701307eb5881d1d048}
+      \strng{authorfullhash}{f8bae46e3eb577701307eb5881d1d048}
+      \field{sortinit}{N}
+      \field{sortinithash}{98cf339a479c0454fe09153a08675a15}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Pinwheel Galaxy}
+      \field{titleaddon}{{NASA}}
+      \field{urlday}{1}
+      \field{urlmonth}{8}
+      \field{urlyear}{2019}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://www.nasa.gov/multimedia/imagegallery/image_feature_2265.html
+      \endverb
+      \verb{url}
+      \verb http://www.nasa.gov/multimedia/imagegallery/image_feature_2265.html
+      \endverb
+    \endentry
+    \entry{nasa_hubble_2016}{online}{}
+      \name{author}{2}{}{%
+        {{hash=1f99771bc3e23e6097509a331544ab65}{%
+           family={{NASA}},
+           familyi={N\bibinitperiod}}}%
+        {{hash=857e6a4da6bfa81ae6c28ddf82e3d5a0}{%
+           family={{ESA/Hubble}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{9ccf38cb340b0e82f16f461c9e1e0517}
+      \strng{fullhash}{9ccf38cb340b0e82f16f461c9e1e0517}
+      \strng{bibnamehash}{9ccf38cb340b0e82f16f461c9e1e0517}
+      \strng{authorbibnamehash}{9ccf38cb340b0e82f16f461c9e1e0517}
+      \strng{authornamehash}{9ccf38cb340b0e82f16f461c9e1e0517}
+      \strng{authorfullhash}{9ccf38cb340b0e82f16f461c9e1e0517}
+      \field{sortinit}{N}
+      \field{sortinithash}{98cf339a479c0454fe09153a08675a15}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Hubble Views a Galactic Mega-merger}
+      \field{type}{{NASA}}
+      \field{urlday}{30}
+      \field{urlmonth}{10}
+      \field{urlyear}{2019}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://www.nasa.gov/image-feature/goddard/2016/hubble-views-a-galactic-mega-merger
+      \endverb
+      \verb{url}
+      \verb http://www.nasa.gov/image-feature/goddard/2016/hubble-views-a-galactic-mega-merger
+      \endverb
+    \endentry
+    \entry{nasa_hubblesite:_2004}{online}{}
+      \name{author}{2}{}{%
+        {{hash=1f99771bc3e23e6097509a331544ab65}{%
+           family={{NASA}},
+           familyi={N\bibinitperiod}}}%
+        {{hash=c000d1c3738d0c5397f8fead87c16ff2}{%
+           family={{Space Telescope Science Institute}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{5a5651488b50a93b9dcda97699aef9da}
+      \strng{fullhash}{5a5651488b50a93b9dcda97699aef9da}
+      \strng{bibnamehash}{5a5651488b50a93b9dcda97699aef9da}
+      \strng{authorbibnamehash}{5a5651488b50a93b9dcda97699aef9da}
+      \strng{authornamehash}{5a5651488b50a93b9dcda97699aef9da}
+      \strng{authorfullhash}{5a5651488b50a93b9dcda97699aef9da}
+      \field{sortinit}{N}
+      \field{sortinithash}{98cf339a479c0454fe09153a08675a15}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{HubbleSite}: Image - Hubble Ultra Deep Field}
+      \field{urlday}{30}
+      \field{urlmonth}{12}
+      \field{urlyear}{2019}
+      \field{year}{2004}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://hubblesite.org/image/3886/category/58-hubble-ultra-deep-field
+      \endverb
+      \verb{url}
+      \verb https://hubblesite.org/image/3886/category/58-hubble-ultra-deep-field
+      \endverb
+    \endentry
+    \entry{oza_multiple_2005}{collection}{}
+      \name{editor}{4}{}{%
+        {{hash=4de237ec88c98330dc364325f43871cc}{%
+           family={Oza},
+           familyi={O\bibinitperiod},
+           given={Nikunj\bibnamedelima C.},
+           giveni={N\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=a29bd97f376d67ceb3d885362b1fa525}{%
+           family={Polikar},
+           familyi={P\bibinitperiod},
+           given={Robi},
+           giveni={R\bibinitperiod}}}%
+        {{hash=9dd3a56c94774f5880ca7475fdc308ea}{%
+           family={Kittler},
+           familyi={K\bibinitperiod},
+           given={Josef},
+           giveni={J\bibinitperiod}}}%
+        {{hash=19ca143efaaea0b22bc6fad56e333cc5}{%
+           family={Roli},
+           familyi={R\bibinitperiod},
+           given={Fabio},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer-Verlag}%
+      }
+      \strng{namehash}{4d4d7f6f73f530cc95d7689531c3fff1}
+      \strng{fullhash}{579034aabb556adfaf6ff27d1f3f6fd7}
+      \strng{bibnamehash}{579034aabb556adfaf6ff27d1f3f6fd7}
+      \strng{editorbibnamehash}{579034aabb556adfaf6ff27d1f3f6fd7}
+      \strng{editornamehash}{4d4d7f6f73f530cc95d7689531c3fff1}
+      \strng{editorfullhash}{579034aabb556adfaf6ff27d1f3f6fd7}
+      \field{sortinit}{O}
+      \field{sortinithash}{ff8d4eeb5101e3cf3809959b3592d942}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{series}{Image Processing, Computer Vision, Pattern Recognition, and Graphics}
+      \field{title}{Multiple Classifier Systems: 6th International Workshop, {MCS} 2005}
+      \field{year}{2005}
+      \field{dateera}{ce}
+    \endentry
+    \entry{raddick_galaxy_2013}{article}{}
+      \name{author}{9}{}{%
+        {{hash=55e459eb2adafecf359131f6d071fa3b}{%
+           family={Raddick},
+           familyi={R\bibinitperiod},
+           given={M.\bibnamedelimi Jordan},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=b1a1ab32563e2986678d4663ba5de8cc}{%
+           family={Bracey},
+           familyi={B\bibinitperiod},
+           given={Georgia},
+           giveni={G\bibinitperiod}}}%
+        {{hash=0496876809a86ebe65c6490a0f801789}{%
+           family={Gay},
+           familyi={G\bibinitperiod},
+           given={Pamela\bibnamedelima L.},
+           giveni={P\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=fbccd724a92f34e557ae8367cec29ca6}{%
+           family={Lintott},
+           familyi={L\bibinitperiod},
+           given={Chris\bibnamedelima J.},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=e33355b6afcd405eae9316c8ef81959d}{%
+           family={Cardamone},
+           familyi={C\bibinitperiod},
+           given={Carie},
+           giveni={C\bibinitperiod}}}%
+        {{hash=b0959dbbe9b2d12993e7adf103d1617b}{%
+           family={Murray},
+           familyi={M\bibinitperiod},
+           given={Phil},
+           giveni={P\bibinitperiod}}}%
+        {{hash=2396f6fdd509ea8a2e3d2f4e42fbff93}{%
+           family={Schawinski},
+           familyi={S\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=51ccd89934c8aeb714a816f2b047905e}{%
+           family={Szalay},
+           familyi={S\bibinitperiod},
+           given={Alexander\bibnamedelima S.},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=bd4d5d069b85ec79d4d84b803e9ba183}{%
+           family={Vandenberg},
+           familyi={V\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{a46d67c27038ed36bd8bb8c2203a7362}
+      \strng{fullhash}{1ae280c85e63cf172b3e9e7188b65092}
+      \strng{bibnamehash}{1ae280c85e63cf172b3e9e7188b65092}
+      \strng{authorbibnamehash}{1ae280c85e63cf172b3e9e7188b65092}
+      \strng{authornamehash}{a46d67c27038ed36bd8bb8c2203a7362}
+      \strng{authorfullhash}{1ae280c85e63cf172b3e9e7188b65092}
+      \field{extraname}{1}
+      \field{sortinit}{R}
+      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{27}
+      \field{month}{3}
+      \field{title}{Galaxy Zoo: Motivations of Citizen Scientists}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \keyw{Astrophysics - Cosmology and Nongalactic Astrophysics,Physics - Physics Education}
+    \endentry
+    \entry{raddick_galaxy_2010}{article}{}
+      \name{author}{8}{}{%
+        {{hash=55e459eb2adafecf359131f6d071fa3b}{%
+           family={Raddick},
+           familyi={R\bibinitperiod},
+           given={M.\bibnamedelimi Jordan},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=b1a1ab32563e2986678d4663ba5de8cc}{%
+           family={Bracey},
+           familyi={B\bibinitperiod},
+           given={Georgia},
+           giveni={G\bibinitperiod}}}%
+        {{hash=0496876809a86ebe65c6490a0f801789}{%
+           family={Gay},
+           familyi={G\bibinitperiod},
+           given={Pamela\bibnamedelima L.},
+           giveni={P\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=fbccd724a92f34e557ae8367cec29ca6}{%
+           family={Lintott},
+           familyi={L\bibinitperiod},
+           given={Chris\bibnamedelima J.},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=b0959dbbe9b2d12993e7adf103d1617b}{%
+           family={Murray},
+           familyi={M\bibinitperiod},
+           given={Phil},
+           giveni={P\bibinitperiod}}}%
+        {{hash=2396f6fdd509ea8a2e3d2f4e42fbff93}{%
+           family={Schawinski},
+           familyi={S\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=51ccd89934c8aeb714a816f2b047905e}{%
+           family={Szalay},
+           familyi={S\bibinitperiod},
+           given={Alexander\bibnamedelima S.},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=bd4d5d069b85ec79d4d84b803e9ba183}{%
+           family={Vandenberg},
+           familyi={V\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{a46d67c27038ed36bd8bb8c2203a7362}
+      \strng{fullhash}{76f35c518ba773e9e035667b93331573}
+      \strng{bibnamehash}{76f35c518ba773e9e035667b93331573}
+      \strng{authorbibnamehash}{76f35c518ba773e9e035667b93331573}
+      \strng{authornamehash}{a46d67c27038ed36bd8bb8c2203a7362}
+      \strng{authorfullhash}{76f35c518ba773e9e035667b93331573}
+      \field{extraname}{2}
+      \field{sortinit}{R}
+      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Astronomy Education Review}
+      \field{month}{12}
+      \field{number}{1}
+      \field{title}{Galaxy Zoo: Exploring the Motivations of Citizen Science Volunteers}
+      \field{volume}{9}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \keyw{Astrophysics - Astrophysics of Galaxies,Astrophysics - Instrumentation and Methods for Astrophysics,Physics - Popular Physics}
+    \endentry
+    \entry{rebala_introduction_2019}{book}{}
+      \name{author}{3}{}{%
+        {{hash=7d2a59f17eaeef5f10a52688a55ea73d}{%
+           family={Rebala},
+           familyi={R\bibinitperiod},
+           given={Gopinath},
+           giveni={G\bibinitperiod}}}%
+        {{hash=e52f8a348d082dbacb7c31660a7ff7df}{%
+           family={Ravi},
+           familyi={R\bibinitperiod},
+           given={Ajay},
+           giveni={A\bibinitperiod}}}%
+        {{hash=638a584193a6fe90cce47f287b875906}{%
+           family={Churiwala},
+           familyi={C\bibinitperiod},
+           given={Sanjay},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Switzerland}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
+      \strng{namehash}{d9a40ec3817993dddc1c380e31f3be5a}
+      \strng{fullhash}{d9a40ec3817993dddc1c380e31f3be5a}
+      \strng{bibnamehash}{d9a40ec3817993dddc1c380e31f3be5a}
+      \strng{authorbibnamehash}{d9a40ec3817993dddc1c380e31f3be5a}
+      \strng{authornamehash}{d9a40ec3817993dddc1c380e31f3be5a}
+      \strng{authorfullhash}{d9a40ec3817993dddc1c380e31f3be5a}
+      \field{sortinit}{R}
+      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{An Introduction to Machine Learning}
+      \field{year}{2019}
+      \field{dateera}{ce}
+    \endentry
+    \entry{roli_multiple_2004}{collection}{}
+      \name{editor}{3}{}{%
+        {{hash=19ca143efaaea0b22bc6fad56e333cc5}{%
+           family={Roli},
+           familyi={R\bibinitperiod},
+           given={Fabio},
+           giveni={F\bibinitperiod}}}%
+        {{hash=9dd3a56c94774f5880ca7475fdc308ea}{%
+           family={Kittler},
+           familyi={K\bibinitperiod},
+           given={Josef},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c0bb4f044fec181d9c4508558f353b31}{%
+           family={Windeatt},
+           familyi={W\bibinitperiod},
+           given={Terry},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer-Verlag}%
+      }
+      \strng{namehash}{ba5e7216d2a5d021902ee8b11be29792}
+      \strng{fullhash}{ba5e7216d2a5d021902ee8b11be29792}
+      \strng{bibnamehash}{ba5e7216d2a5d021902ee8b11be29792}
+      \strng{editorbibnamehash}{ba5e7216d2a5d021902ee8b11be29792}
+      \strng{editornamehash}{ba5e7216d2a5d021902ee8b11be29792}
+      \strng{editorfullhash}{ba5e7216d2a5d021902ee8b11be29792}
+      \field{sortinit}{R}
+      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{series}{Lecture Notes in Computer Science}
+      \field{title}{Multiple Classifier Systems: 5th International Workshop, {MCS} 2004}
+      \field{year}{2004}
+      \field{dateera}{ce}
+    \endentry
+    \entry{ross_why_2008}{book}{}
+      \name{author}{1}{}{%
+        {{hash=5254db5bbf6a6cc028eb8bb04eae1b46}{%
+           family={Ross},
+           familyi={R\bibinitperiod},
+           given={Hugh},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Grand Rapids, Michigan}%
+      }
+      \list{publisher}{1}{%
+        {Baker Books}%
+      }
+      \strng{namehash}{5254db5bbf6a6cc028eb8bb04eae1b46}
+      \strng{fullhash}{5254db5bbf6a6cc028eb8bb04eae1b46}
+      \strng{bibnamehash}{5254db5bbf6a6cc028eb8bb04eae1b46}
+      \strng{authorbibnamehash}{5254db5bbf6a6cc028eb8bb04eae1b46}
+      \strng{authornamehash}{5254db5bbf6a6cc028eb8bb04eae1b46}
+      \strng{authorfullhash}{5254db5bbf6a6cc028eb8bb04eae1b46}
+      \field{sortinit}{R}
+      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{pagetotal}{240}
+      \field{title}{Why The Universe Is The Way It Is?}
+      \field{year}{2008}
+      \field{dateera}{ce}
+      \keyw{Biblical cosmology,Cosmogony,Creation,Creationism}
+    \endentry
+    \entry{samuel_studies_1959}{article}{}
+      \name{author}{1}{}{%
+        {{hash=a34c1ec201fc249b01c996cf319ea383}{%
+           family={Samuel},
+           familyi={S\bibinitperiod},
+           given={A.\bibnamedelimi L.},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{a34c1ec201fc249b01c996cf319ea383}
+      \strng{fullhash}{a34c1ec201fc249b01c996cf319ea383}
+      \strng{bibnamehash}{a34c1ec201fc249b01c996cf319ea383}
+      \strng{authorbibnamehash}{a34c1ec201fc249b01c996cf319ea383}
+      \strng{authornamehash}{a34c1ec201fc249b01c996cf319ea383}
+      \strng{authorfullhash}{a34c1ec201fc249b01c996cf319ea383}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{IBM} Journal of Research and Development}
+      \field{month}{7}
+      \field{number}{3}
+      \field{title}{Some Studies in Machine Learning Using the Game of Checkers}
+      \field{volume}{3}
+      \field{year}{1959}
+      \field{dateera}{ce}
+      \field{pages}{210\bibrangedash 229}
+      \range{pages}{20}
+    \endentry
+    \entry{sandage_hubble_1984}{book}{}
+      \name{author}{1}{}{%
+        {{hash=25b9a88f0078b30956bb51f5ab4bc147}{%
+           family={Sandage},
+           familyi={S\bibinitperiod},
+           given={Allan},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Washington D.C}%
+      }
+      \strng{namehash}{25b9a88f0078b30956bb51f5ab4bc147}
+      \strng{fullhash}{25b9a88f0078b30956bb51f5ab4bc147}
+      \strng{bibnamehash}{25b9a88f0078b30956bb51f5ab4bc147}
+      \strng{authorbibnamehash}{25b9a88f0078b30956bb51f5ab4bc147}
+      \strng{authornamehash}{25b9a88f0078b30956bb51f5ab4bc147}
+      \strng{authorfullhash}{25b9a88f0078b30956bb51f5ab4bc147}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Hubble Atlas of Galaxies}
+      \field{year}{1984}
+      \field{dateera}{ce}
+    \endentry
+    \entry{schlesinger_library_portrait_2016}{artwork}{}
+      \name{author}{1}{}{%
+        {{hash=8ede9b98fca4428b9739b114e094c0de}{%
+           family={{Schlesinger Library}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{8ede9b98fca4428b9739b114e094c0de}
+      \strng{fullhash}{8ede9b98fca4428b9739b114e094c0de}
+      \strng{bibnamehash}{8ede9b98fca4428b9739b114e094c0de}
+      \strng{authorbibnamehash}{8ede9b98fca4428b9739b114e094c0de}
+      \strng{authornamehash}{8ede9b98fca4428b9739b114e094c0de}
+      \strng{authorfullhash}{8ede9b98fca4428b9739b114e094c0de}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{27}
+      \field{month}{5}
+      \field{title}{Portrait of Annie Jump Cannon, ca. 1895-1897.}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.flickr.com/photos/schlesinger_library/27219643971/
+      \endverb
+      \verb{url}
+      \verb https://www.flickr.com/photos/schlesinger_library/27219643971/
+      \endverb
+      \keyw{astronomers,radcliffecollege,researcherrequest}
+    \endentry
+    \entry{schneider_cross_2019}{online}{}
+      \name{author}{1}{}{%
+        {{hash=b53b06645585eb933eb46040b8426df7}{%
+           family={Schneider},
+           familyi={S\bibinitperiod},
+           given={Jeff},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{b53b06645585eb933eb46040b8426df7}
+      \strng{fullhash}{b53b06645585eb933eb46040b8426df7}
+      \strng{bibnamehash}{b53b06645585eb933eb46040b8426df7}
+      \strng{authorbibnamehash}{b53b06645585eb933eb46040b8426df7}
+      \strng{authornamehash}{b53b06645585eb933eb46040b8426df7}
+      \strng{authorfullhash}{b53b06645585eb933eb46040b8426df7}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Cross Validation}
+      \field{titleaddon}{Jeff Schneider{|} cs.cmu.edu/{\textasciitilde}schneider}
+      \field{urlday}{10}
+      \field{urlmonth}{6}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.cs.cmu.edu/~schneide/tut5/node42.html
+      \endverb
+      \verb{url}
+      \verb https://www.cs.cmu.edu/~schneide/tut5/node42.html
+      \endverb
+    \endentry
+    \entry{shaw_artificial_2018}{online}{}
+      \name{author}{1}{}{%
+        {{hash=1e51275f26a65eceeff3708b039a646c}{%
+           family={Shaw},
+           familyi={S\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{1e51275f26a65eceeff3708b039a646c}
+      \strng{fullhash}{1e51275f26a65eceeff3708b039a646c}
+      \strng{bibnamehash}{1e51275f26a65eceeff3708b039a646c}
+      \strng{authorbibnamehash}{1e51275f26a65eceeff3708b039a646c}
+      \strng{authornamehash}{1e51275f26a65eceeff3708b039a646c}
+      \strng{authorfullhash}{1e51275f26a65eceeff3708b039a646c}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Ethics and the dawn of decision-making machines}
+      \field{day}{6}
+      \field{month}{12}
+      \field{title}{Artificial Intelligence and Ethics}
+      \field{titleaddon}{Harvard Magazine}
+      \field{urlday}{19}
+      \field{urlmonth}{7}
+      \field{urlyear}{2019}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://harvardmagazine.com/2019/01/artificial-intelligence-limitations
+      \endverb
+      \verb{url}
+      \verb https://harvardmagazine.com/2019/01/artificial-intelligence-limitations
+      \endverb
+    \endentry
+    \entry{sloan_digital_sky_survey_sloan_2014}{online}{}
+      \name{author}{1}{}{%
+        {{hash=ababbd31da3bb1cc3420efda7509449f}{%
+           family={{Sloan Digital Sky Survey}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{ababbd31da3bb1cc3420efda7509449f}
+      \strng{fullhash}{ababbd31da3bb1cc3420efda7509449f}
+      \strng{bibnamehash}{ababbd31da3bb1cc3420efda7509449f}
+      \strng{authorbibnamehash}{ababbd31da3bb1cc3420efda7509449f}
+      \strng{authornamehash}{ababbd31da3bb1cc3420efda7509449f}
+      \strng{authorfullhash}{ababbd31da3bb1cc3420efda7509449f}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Sloan Digital Sky Survey}
+      \field{urlday}{15}
+      \field{urlmonth}{11}
+      \field{urlyear}{2019}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://classic.sdss.org/
+      \endverb
+      \verb{url}
+      \verb http://classic.sdss.org/
+      \endverb
+    \endentry
+    \entry{sloan_digital_sky_survey_measures_2019}{online}{}
+      \name{author}{1}{}{%
+        {{hash=ababbd31da3bb1cc3420efda7509449f}{%
+           family={{Sloan Digital Sky Survey}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{ababbd31da3bb1cc3420efda7509449f}
+      \strng{fullhash}{ababbd31da3bb1cc3420efda7509449f}
+      \strng{bibnamehash}{ababbd31da3bb1cc3420efda7509449f}
+      \strng{authorbibnamehash}{ababbd31da3bb1cc3420efda7509449f}
+      \strng{authornamehash}{ababbd31da3bb1cc3420efda7509449f}
+      \strng{authorfullhash}{ababbd31da3bb1cc3420efda7509449f}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Measures of Flux and Magnitude {|} {SDSS}}
+      \field{urlday}{19}
+      \field{urlmonth}{10}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.sdss.org/dr12/algorithms/magnitudes/#mag_petro
+      \endverb
+      \verb{url}
+      \verb https://www.sdss.org/dr12/algorithms/magnitudes/#mag_petro
+      \endverb
+    \endentry
+    \entry{sohn_experimental_2007}{article}{}
+      \name{author}{2}{}{%
+        {{hash=fbf23a5cc410ec4579e3fc40e4249b0a}{%
+           family={Sohn},
+           familyi={S\bibinitperiod},
+           given={S.Y.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=e255eaee7cdc54d11f3848705dcd4ac4}{%
+           family={Shin},
+           familyi={S\bibinitperiod},
+           given={H.W.},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{5c429a2cb617ded5ea73236e305e646d}
+      \strng{fullhash}{5c429a2cb617ded5ea73236e305e646d}
+      \strng{bibnamehash}{5c429a2cb617ded5ea73236e305e646d}
+      \strng{authorbibnamehash}{5c429a2cb617ded5ea73236e305e646d}
+      \strng{authornamehash}{5c429a2cb617ded5ea73236e305e646d}
+      \strng{authorfullhash}{5c429a2cb617ded5ea73236e305e646d}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Pattern Recognition}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{Experimental study for the comparison of classifier combination methods}
+      \field{volume}{40}
+      \field{year}{2007}
+      \field{dateera}{ce}
+      \field{pages}{33\bibrangedash 40}
+      \range{pages}{8}
+    \endentry
+    \entry{space_telescope_science_institute_hubblesite_2007}{online}{}
+      \name{author}{1}{}{%
+        {{hash=c000d1c3738d0c5397f8fead87c16ff2}{%
+           family={{Space Telescope Science Institute}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{c000d1c3738d0c5397f8fead87c16ff2}
+      \strng{fullhash}{c000d1c3738d0c5397f8fead87c16ff2}
+      \strng{bibnamehash}{c000d1c3738d0c5397f8fead87c16ff2}
+      \strng{authorbibnamehash}{c000d1c3738d0c5397f8fead87c16ff2}
+      \strng{authornamehash}{c000d1c3738d0c5397f8fead87c16ff2}
+      \strng{authorfullhash}{c000d1c3738d0c5397f8fead87c16ff2}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{HubbleSite}: Image - {ESO} 325-G004: Detailing the Big Picture}
+      \field{titleaddon}{{STScI}}
+      \field{urlday}{9}
+      \field{urlmonth}{8}
+      \field{urlyear}{2019}
+      \field{year}{2007}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://hubblesite.org/image/2057/news/55-globular-clusters
+      \endverb
+      \verb{url}
+      \verb https://hubblesite.org/image/2057/news/55-globular-clusters
+      \endverb
+    \endentry
+    \entry{stanford_university_professor_2019}{online}{}
+      \name{author}{1}{}{%
+        {{hash=0046da532e97df5d50acb77312260cfd}{%
+           family={{Stanford University}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{0046da532e97df5d50acb77312260cfd}
+      \strng{fullhash}{0046da532e97df5d50acb77312260cfd}
+      \strng{bibnamehash}{0046da532e97df5d50acb77312260cfd}
+      \strng{authorbibnamehash}{0046da532e97df5d50acb77312260cfd}
+      \strng{authornamehash}{0046da532e97df5d50acb77312260cfd}
+      \strng{authorfullhash}{0046da532e97df5d50acb77312260cfd}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Professor Arthur Samuel {|} Stanford Computer Science}
+      \field{urlday}{8}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://cs.stanford.edu/memoriam/professor-arthur-samuel
+      \endverb
+      \verb{url}
+      \verb https://cs.stanford.edu/memoriam/professor-arthur-samuel
+      \endverb
+    \endentry
+    \entry{stoughton_sloan_2002}{article}{}
+      \name{author}{8}{}{%
+        {{hash=45c4b0d254bbdade44f441c2e5b981a2}{%
+           family={Stoughton},
+           familyi={S\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod}}}%
+        {{hash=98bc47f6b3e2bf5e0eb94b46db50254c}{%
+           family={Lupton},
+           familyi={L\bibinitperiod},
+           given={Robert\bibnamedelima H.},
+           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=54fefe97668f6bddd5e8bcad7b70e7fd}{%
+           family={Bernardi},
+           familyi={B\bibinitperiod},
+           given={Mariangela},
+           giveni={M\bibinitperiod}}}%
+        {{hash=44266d6733f1fd95a141490a0f713381}{%
+           family={Blanton},
+           familyi={B\bibinitperiod},
+           given={Michael\bibnamedelima R.},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=0d7edc7ef93635a3207588eeeeb29966}{%
+           family={Burles},
+           familyi={B\bibinitperiod},
+           given={Scott},
+           giveni={S\bibinitperiod}}}%
+        {{hash=596d6b50445ab8fbf2da9edc1ce6f8ef}{%
+           family={Castander},
+           familyi={C\bibinitperiod},
+           given={Francisco\bibnamedelima J.},
+           giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=d41d8cd98f00b204e9800998ecf8427e}{%
+           family={{...}},
+           familyi={.\bibinitperiod}}}%
+        {{hash=b75d272501a570bbb2098d4e04b09ec4}{%
+           family={Zehavi},
+           familyi={Z\bibinitperiod},
+           given={Idit},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{89da9b87fa740bb6e24d3873ccd01e53}
+      \strng{fullhash}{f774213a3d25c7e40ac8686fb0b30178}
+      \strng{bibnamehash}{f774213a3d25c7e40ac8686fb0b30178}
+      \strng{authorbibnamehash}{f774213a3d25c7e40ac8686fb0b30178}
+      \strng{authornamehash}{89da9b87fa740bb6e24d3873ccd01e53}
+      \strng{authorfullhash}{f774213a3d25c7e40ac8686fb0b30178}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Astronomical Journal}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{Sloan Digital Sky Survey: Early Data Release}
+      \field{volume}{123}
+      \field{year}{2002}
+      \field{dateera}{ce}
+      \field{pages}{485\bibrangedash 548}
+      \range{pages}{64}
+    \endentry
+    \entry{strauss_spectroscopic_2002}{article}{}
+      \name{author}{8}{}{%
+        {{hash=087e18f7bc79d363347b73e83a3bed63}{%
+           family={Strauss},
+           familyi={S\bibinitperiod},
+           given={Michael\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=65e286d610af1c6170489dbe9a0cbba1}{%
+           family={Weinberg},
+           familyi={W\bibinitperiod},
+           given={David\bibnamedelima H.},
+           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=98bc47f6b3e2bf5e0eb94b46db50254c}{%
+           family={Lupton},
+           familyi={L\bibinitperiod},
+           given={Robert\bibnamedelima H.},
+           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=925b8bda84856bd51b84a3255bd6e15b}{%
+           family={Narayanan},
+           familyi={N\bibinitperiod},
+           given={Vijay\bibnamedelima K.},
+           giveni={V\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=96f1950640bf6d7ae15a46cdbf7796cb}{%
+           family={Annis},
+           familyi={A\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+        {{hash=54fefe97668f6bddd5e8bcad7b70e7fd}{%
+           family={Bernardi},
+           familyi={B\bibinitperiod},
+           given={Mariangela},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d41d8cd98f00b204e9800998ecf8427e}{%
+           family={{...}},
+           familyi={.\bibinitperiod}}}%
+        {{hash=b75d272501a570bbb2098d4e04b09ec4}{%
+           family={Zehavi},
+           familyi={Z\bibinitperiod},
+           given={Idit},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{c34507459919cc797d9b9619b71e3128}
+      \strng{fullhash}{facc2d32ca2a85b928df88c19533fcb9}
+      \strng{bibnamehash}{facc2d32ca2a85b928df88c19533fcb9}
+      \strng{authorbibnamehash}{facc2d32ca2a85b928df88c19533fcb9}
+      \strng{authornamehash}{c34507459919cc797d9b9619b71e3128}
+      \strng{authorfullhash}{facc2d32ca2a85b928df88c19533fcb9}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{journaltitle}{The Astronomical Journal}
+      \field{month}{9}
+      \field{title}{Spectroscopic Target Selection in the Sloan Digital Sky Survey: The Main Galaxy Sample}
+      \field{volume}{124}
+      \field{year}{2002}
+      \field{dateera}{ce}
+      \field{pages}{1810\bibrangedash 1824}
+      \range{pages}{15}
+    \endentry
+    \entry{sung-bae_cho_multiple_1995}{article}{}
+      \name{author}{2}{}{%
+        {{hash=e36abd02fab8638b95b3e95f7a21a15f}{%
+           family={{Sung-Bae Cho}},
+           familyi={S\bibinitperiod}}}%
+        {{hash=22f004ba2a2fb15ca2272345a67a8156}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={J.H.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{c169fd877eca1be3a3dd2178de77ae2e}
+      \strng{fullhash}{c169fd877eca1be3a3dd2178de77ae2e}
+      \strng{bibnamehash}{c169fd877eca1be3a3dd2178de77ae2e}
+      \strng{authorbibnamehash}{c169fd877eca1be3a3dd2178de77ae2e}
+      \strng{authornamehash}{c169fd877eca1be3a3dd2178de77ae2e}
+      \strng{authorfullhash}{c169fd877eca1be3a3dd2178de77ae2e}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{IEEE} Transactions on Neural Networks}
+      \field{month}{3}
+      \field{number}{2}
+      \field{title}{Multiple network fusion using fuzzy logic}
+      \field{volume}{6}
+      \field{year}{1995}
+      \field{dateera}{ce}
+      \field{pages}{497\bibrangedash 501}
+      \range{pages}{5}
+    \endentry
+    \entry{thagard_philosophy_1990}{article}{}
+      \name{author}{1}{}{%
+        {{hash=d272f264b33ab9089740434249a9864d}{%
+           family={Thagard},
+           familyi={T\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{d272f264b33ab9089740434249a9864d}
+      \strng{fullhash}{d272f264b33ab9089740434249a9864d}
+      \strng{bibnamehash}{d272f264b33ab9089740434249a9864d}
+      \strng{authorbibnamehash}{d272f264b33ab9089740434249a9864d}
+      \strng{authornamehash}{d272f264b33ab9089740434249a9864d}
+      \strng{authorfullhash}{d272f264b33ab9089740434249a9864d}
+      \field{sortinit}{T}
+      \field{sortinithash}{51f9faf24c60c62ca764a77f78cf5666}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Canadian Journal of Philosophy}
+      \field{number}{2}
+      \field{title}{Philosophy and Machine Learning}
+      \field{volume}{20}
+      \field{year}{1990}
+      \field{dateera}{ce}
+      \field{pages}{261\bibrangedash 276}
+      \range{pages}{16}
+    \endentry
+    \entry{the_institute_for_ethical_ai_&_machine_learning_machine_2019}{online}{}
+      \name{author}{1}{}{%
+        {{hash=98fead254f840fea82fc6fede78235ec}{%
+           family={{The Institute for Ethical AI \& Machine Learning}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{98fead254f840fea82fc6fede78235ec}
+      \strng{fullhash}{98fead254f840fea82fc6fede78235ec}
+      \strng{bibnamehash}{98fead254f840fea82fc6fede78235ec}
+      \strng{authorbibnamehash}{98fead254f840fea82fc6fede78235ec}
+      \strng{authornamehash}{98fead254f840fea82fc6fede78235ec}
+      \strng{authorfullhash}{98fead254f840fea82fc6fede78235ec}
+      \field{sortinit}{T}
+      \field{sortinithash}{51f9faf24c60c62ca764a77f78cf5666}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Machine Learning Principles}
+      \field{urlday}{19}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://ethical.institute
+      \endverb
+      \verb{url}
+      \verb https://ethical.institute
+      \endverb
+    \endentry
+    \entry{thonnat_toward_1989}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=0006a48de14fda8f76681a67a41be1ee}{%
+           family={Thonnat},
+           familyi={T\bibinitperiod},
+           given={Monique},
+           giveni={M\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=0995482ab77acaff406a24267039354f}{%
+           family={Corwin},
+           familyi={C\bibinitperiod},
+           given={Harold\bibnamedelima G.},
+           giveni={H\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=1ddf46bf2e2ee449dee51521d8fdb2b5}{%
+           family={Bottinelli},
+           familyi={B\bibinitperiod},
+           given={Lucette},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, {NY}}%
+      }
+      \list{publisher}{1}{%
+        {Springer {US}}%
+      }
+      \strng{namehash}{0006a48de14fda8f76681a67a41be1ee}
+      \strng{fullhash}{0006a48de14fda8f76681a67a41be1ee}
+      \strng{bibnamehash}{0006a48de14fda8f76681a67a41be1ee}
+      \strng{authorbibnamehash}{0006a48de14fda8f76681a67a41be1ee}
+      \strng{authornamehash}{0006a48de14fda8f76681a67a41be1ee}
+      \strng{authorfullhash}{0006a48de14fda8f76681a67a41be1ee}
+      \strng{editorbibnamehash}{fdfb45463ce1bebc0f60ebd7ef101075}
+      \strng{editornamehash}{fdfb45463ce1bebc0f60ebd7ef101075}
+      \strng{editorfullhash}{fdfb45463ce1bebc0f60ebd7ef101075}
+      \field{sortinit}{T}
+      \field{sortinithash}{51f9faf24c60c62ca764a77f78cf5666}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The World of Galaxies}
+      \field{title}{Toward an Automatic Classification of Galaxies}
+      \field{year}{1989}
+      \field{dateera}{ce}
+      \field{pages}{53\bibrangedash 74}
+      \range{pages}{22}
+    \endentry
+    \entry{vaucouleurs_third_1991}{collection}{}
+      \name{editor}{1}{}{%
+        {{hash=bae8c24fa515af7c3eef00ae049e0832}{%
+           family={Vaucouleurs},
+           familyi={V\bibinitperiod},
+           given={Gérard-Henri\bibnamedelima de},
+           giveni={G\bibinithyphendelim H\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, {NY}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{bae8c24fa515af7c3eef00ae049e0832}
+      \strng{fullhash}{bae8c24fa515af7c3eef00ae049e0832}
+      \strng{bibnamehash}{bae8c24fa515af7c3eef00ae049e0832}
+      \strng{editorbibnamehash}{bae8c24fa515af7c3eef00ae049e0832}
+      \strng{editornamehash}{bae8c24fa515af7c3eef00ae049e0832}
+      \strng{editorfullhash}{bae8c24fa515af7c3eef00ae049e0832}
+      \field{sortinit}{V}
+      \field{sortinithash}{02432525618c08e2b03cac47c19764af}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Third reference catalogue of bright galaxies}
+      \field{year}{1991}
+      \field{dateera}{ce}
+    \endentry
+    \entry{wakabayashi_self-driving_2018}{article}{}
+      \name{author}{1}{}{%
+        {{hash=e48c04980e1e83be454cad03c0cf9011}{%
+           family={Wakabayashi},
+           familyi={W\bibinitperiod},
+           given={Daisuke},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{e48c04980e1e83be454cad03c0cf9011}
+      \strng{fullhash}{e48c04980e1e83be454cad03c0cf9011}
+      \strng{bibnamehash}{e48c04980e1e83be454cad03c0cf9011}
+      \strng{authorbibnamehash}{e48c04980e1e83be454cad03c0cf9011}
+      \strng{authornamehash}{e48c04980e1e83be454cad03c0cf9011}
+      \strng{authorfullhash}{e48c04980e1e83be454cad03c0cf9011}
+      \field{sortinit}{W}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{19}
+      \field{journaltitle}{The New York Times}
+      \field{month}{3}
+      \field{title}{Self-Driving Uber Car Kills Pedestrian in Arizona, Where Robots Roam}
+      \field{urlday}{19}
+      \field{urlmonth}{12}
+      \field{urlyear}{2019}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.nytimes.com/2018/03/19/technology/uber-driverless-fatality.html
+      \endverb
+      \verb{url}
+      \verb https://www.nytimes.com/2018/03/19/technology/uber-driverless-fatality.html
+      \endverb
+      \keyw{Deaths (Fatalities),Driverless and Semiautonomous Vehicles,Tempe (Ariz),Traffic Accidents and Safety,Uber Technologies Inc}
+    \endentry
+    \entry{way_advances_2012}{book}{}
+      \name{author}{4}{}{%
+        {{hash=1cefe728d761ce67cc8adcc3472fe0dc}{%
+           family={Way},
+           familyi={W\bibinitperiod},
+           given={Michael\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=baa56a45559c3d84dd216c16cef6d85d}{%
+           family={Scargle},
+           familyi={S\bibinitperiod},
+           given={Jeffrey\bibnamedelima D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=9989f3d68b1bce56137a95b8e8b7a561}{%
+           family={Ali},
+           familyi={A\bibinitperiod},
+           given={Kamal\bibnamedelima M.},
+           giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=da5db7fb77572be49f8b3e2a401c05b5}{%
+           family={Srivastava},
+           familyi={S\bibinitperiod},
+           given={Ashok\bibnamedelima N.},
+           giveni={A\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{CRC} Press}%
+      }
+      \strng{namehash}{e205064e6e182eb76335be9dc04c25ef}
+      \strng{fullhash}{302301d9280cabb2f712ce6f8f078c6b}
+      \strng{bibnamehash}{302301d9280cabb2f712ce6f8f078c6b}
+      \strng{authorbibnamehash}{302301d9280cabb2f712ce6f8f078c6b}
+      \strng{authornamehash}{e205064e6e182eb76335be9dc04c25ef}
+      \strng{authorfullhash}{302301d9280cabb2f712ce6f8f078c6b}
+      \field{sortinit}{W}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{29}
+      \field{month}{3}
+      \field{title}{Advances in Machine Learning and Data Mining for Astronomy}
+      \field{year}{2012}
+      \field{dateera}{ce}
+    \endentry
+    \entry{wolbach_library_of_the_harvard-smithsonian_center_for_astrophysics_astronomy_2019}{online}{}
+      \name{author}{1}{}{%
+        {{hash=ed61807e28e220307b99e64719fcc2c8}{%
+           family={{Wolbach Library of the Harvard-Smithsonian Center for Astrophysics}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{ed61807e28e220307b99e64719fcc2c8}
+      \strng{fullhash}{ed61807e28e220307b99e64719fcc2c8}
+      \strng{bibnamehash}{ed61807e28e220307b99e64719fcc2c8}
+      \strng{authorbibnamehash}{ed61807e28e220307b99e64719fcc2c8}
+      \strng{authornamehash}{ed61807e28e220307b99e64719fcc2c8}
+      \strng{authorfullhash}{ed61807e28e220307b99e64719fcc2c8}
+      \field{sortinit}{W}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{Astronomy and Spectroscopy}
+      \field{titleaddon}{John G. Wolbach Library}
+      \field{urlday}{11}
+      \field{urlmonth}{11}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://library.cfa.harvard.edu/cannon-spectroscopy
+      \endverb
+      \verb{url}
+      \verb https://library.cfa.harvard.edu/cannon-spectroscopy
+      \endverb
+    \endentry
+    \entry{wu_ultraluminous_2015}{article}{}
+      \name{author}{13}{}{%
+        {{hash=ff9f9e3cfa277308db3bc27daec7ad32}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Xue-Bing},
+           giveni={X\bibinithyphendelim B\bibinitperiod}}}%
+        {{hash=57674e9a633f3c4a6fdeb45edd157480}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Feige},
+           giveni={F\bibinitperiod}}}%
+        {{hash=a89d74a0dcb18ac2a97e9dbd0d861568}{%
+           family={Fan},
+           familyi={F\bibinitperiod},
+           given={Xiaohui},
+           giveni={X\bibinitperiod}}}%
+        {{hash=84da152a28627dad3b8cc1a00b8ae344}{%
+           family={Yi},
+           familyi={Y\bibinitperiod},
+           given={Weimin},
+           giveni={W\bibinitperiod}}}%
+        {{hash=f7077d7050259f93ffbdff6fc9bc915b}{%
+           family={Zuo},
+           familyi={Z\bibinitperiod},
+           given={Wenwen},
+           giveni={W\bibinitperiod}}}%
+        {{hash=9939a1aac5722039768f30b73e52558d}{%
+           family={Bian},
+           familyi={B\bibinitperiod},
+           given={Fuyan},
+           giveni={F\bibinitperiod}}}%
+        {{hash=30cb736cd0f638438f1a7e87b5eb8dfa}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={Linhua},
+           giveni={L\bibinitperiod}}}%
+        {{hash=2d57d2b8671eb43d785a44057baa4ed6}{%
+           family={{McGreer}},
+           familyi={M\bibinitperiod},
+           given={Ian\bibnamedelima D.},
+           giveni={I\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=3c13bf0fe52a44dd116db777045e959c}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Ran},
+           giveni={R\bibinitperiod}}}%
+        {{hash=288393c1ca3ae2e9f9c49e379491613d}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Jinyi},
+           giveni={J\bibinitperiod}}}%
+        {{hash=d16aa0879612f82c2aae3699ff89e232}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Qian},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=f85598f55a80cf7664289e75ad69856c}{%
+           family={Thompson},
+           familyi={T\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=0e50b34732bcc0c45bacf3add6240bfb}{%
+           family={Beletsky},
+           familyi={B\bibinitperiod},
+           given={Yuri},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{5b599eea3138d0de6cab1fce5fb65308}
+      \strng{fullhash}{dcf0d3a5d662c9182efc3d9114843e28}
+      \strng{bibnamehash}{dcf0d3a5d662c9182efc3d9114843e28}
+      \strng{authorbibnamehash}{dcf0d3a5d662c9182efc3d9114843e28}
+      \strng{authornamehash}{5b599eea3138d0de6cab1fce5fb65308}
+      \strng{authorfullhash}{dcf0d3a5d662c9182efc3d9114843e28}
+      \field{sortinit}{W}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature}
+      \field{month}{2}
+      \field{number}{7540}
+      \field{title}{An ultraluminous quasar with a twelve-billion-solar-mass black hole at redshift 6.30}
+      \field{volume}{518}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{pages}{512\bibrangedash 515}
+      \range{pages}{4}
+    \endentry
+    \entry{york_sloan_2000}{article}{}
+      \name{author}{8}{}{%
+        {{hash=5b5fa74d31e7eca074ace08d5f55a758}{%
+           family={York},
+           familyi={Y\bibinitperiod},
+           given={Donald\bibnamedelima G.},
+           giveni={D\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=81c588db6312427feb5a8373dbc069c1}{%
+           family={Adelman},
+           familyi={A\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=6b473ec1238b68b98c368365d4ce13d6}{%
+           family={Anderson},
+           familyi={A\bibinitperiod},
+           given={John\bibnamedelima E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+           suffix={Jr.},
+           suffixi={J\bibinitperiod}}}%
+        {{hash=63466091e097bd36c1288a3190cbe25e}{%
+           family={Anderson},
+           familyi={A\bibinitperiod},
+           given={Scott\bibnamedelima F.},
+           giveni={S\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=96f1950640bf6d7ae15a46cdbf7796cb}{%
+           family={Annis},
+           familyi={A\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+        {{hash=24f1237842ff8524277c6f69122858f2}{%
+           family={Bahcall},
+           familyi={B\bibinitperiod},
+           given={Neta\bibnamedelima A.},
+           giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=d41d8cd98f00b204e9800998ecf8427e}{%
+           family={{...}},
+           familyi={.\bibinitperiod}}}%
+        {{hash=2b36000234ac5f52e3153add260b2a19}{%
+           family={Yasuda},
+           familyi={Y\bibinitperiod},
+           given={Naoki},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{3a0c6eb81f60529b359c66dc06d4f74a}
+      \strng{fullhash}{f53c5dc98691247eea0e86460b69d303}
+      \strng{bibnamehash}{f53c5dc98691247eea0e86460b69d303}
+      \strng{authorbibnamehash}{f53c5dc98691247eea0e86460b69d303}
+      \strng{authornamehash}{3a0c6eb81f60529b359c66dc06d4f74a}
+      \strng{authorfullhash}{f53c5dc98691247eea0e86460b69d303}
+      \field{sortinit}{Y}
+      \field{sortinithash}{6ae2ff5458ff901249c2745238c951b7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Astronomical Journal}
+      \field{month}{9}
+      \field{number}{3}
+      \field{title}{The Sloan Digital Sky Survey: Technical Summary}
+      \field{volume}{120}
+      \field{year}{2000}
+      \field{dateera}{ce}
+      \field{pages}{1579\bibrangedash 1587}
+      \range{pages}{9}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

@@ -1,0 +1,43 @@
+\section{Conclusion}
+
+\epigraph{\justify``The heavens declare the glory of God, and the sky above proclaims his handiwork.}{Psalm 19:1}
+
+\subsection{Lessons Learnt}
+\begin{itemize}
+	
+	\item In the regression problem, based on the flux magnitudes of 5 colour indices, decision tree models were used to predict its redshift. To assess the accuracy, the median of the residuals was used as an accuracy measure.
+	
+	\item Some non-machine learning approaches were discussed such as model fitting and comparison with spectral emission lines but their limitations demanded the employment of machine learning.
+	
+	\item A basic hold-out validation was performed and which was unrealistic because it was optimised to work for the training data. The problem of overfitting was also explored. To resolve the issue, K-fold cross-validation was introduced.
+	
+	\item The decision trees were prone to overfitting the model and limiting the maximum depth of the tree, could prevent it. By comparing the accuracy of the model on the training set with that of the test set for different tree depths it was found out that a maximum tree depth of 19 was optimal for the model.
+	
+	\item k-fold cross-validation which is also shipped as Python libraries were implemented. A custom method was developed to understand the inner-workings. \textit{K}-fold cross-validation mitigated the risk that the training set had a class imbalance. In this case, few quasars in the mix of regular galaxy dataset were classified without disrupting the model's efficacy. \textit{K}-fold was pivotal in mitigating measurement bias resulting from the difference in the range of redshifts in each type of population.
+	
+	\item It was shown that the decision tree can work for both the regression and the classification problem. The working mechanism was pretty much the same in both cases. The former returned a real-valued number whereas the later was a discrete value, in this case, the morphology of galaxy. 
+	
+	\item In the classification part, decision tree classifiers used multitudes of features of galaxies to identify a galaxies type by a selection of derived features (e.g. eccentricity and concentration).
+	
+	\item It was found that assessing the model's performance is a lot simpler with classification than it is with regression. Confusion matrices can be a useful tool to help understand where the model is over and under performing with respect to each class. I started out with the goal of using decision trees to classify galaxies as one of three types. I was able to achieve an accuracy of around 80\% using the decision trees which is very good when one considers the statistical accuracy of a random selection is 33\% and the naive approach using only pixel values yielded close to 64\%. The study was able to improve on the accuracy of the decision tree classifier by using a selection of them in ensemble learning with a random forest.
+	
+	\subsection{Limitation of Study}
+	\item Colour has been the basis for prediction of morphology and redshifts for galaxies in this study. In terms of morphology, a limitation in my study is it does not take into account the galaxy evolution story. The colour of a galaxy is mainly determined by its stellar content, gas and dust. While the morphology of a galaxy evinces at the dynamical history and the two do not necessarily share common timescale. To resolve the aforementioned issues, a large dataset of the early-type and late-type galaxy which is independent of colour needs to be taken into account and different classifiers with other training features must be selected and tested out.
+	\item With regards to the redshift prediction, the model does not consider the photometric uncertainty. And sampling can introduce systematic errors which can bias variability metrics. The uncertainty can be considered in the next study or efficiency-purity of systematic errors can be shown explicitly.
+\end{itemize}
+\subsection{Future Work}
+\begin{itemize}
+	\item Datasets including large sets of early-type and late-type galaxies can be taken into consideration to classify galaxies based on other features independent of colour.
+	\item Systematic bias can be eliminated by taking into account primary measurement residuals into the learning algorithm.
+	\item A richer web-based user interface with robust exception handling in place, can be developed to steer the prediction from feature extraction to class generation.
+	\item The dissertation can be further edited and made publication-ready. Astrophysical and machine learning journals can be approached for publishing based on this study.
+\end{itemize}
+
+\section{Acknowledgment}
+I am grateful to my teacher Achyut Timisina, the academic director of computing at Softwarica. His piercing pedagogy and facilitation were formative to my growth. But I am touched by his cordial demeanor. I am also thankful to my supervisor Manoj Shrestha.
+
+I am indebted to Dr Tara Murphy and Dr Simon Murphy, professors of Computational Astronomy at the University of Sydney whose MOOC on `Data-driven Astronomy' laid in me the foundations of applied machine learning to solve astronomical problems.
+
+Heartfelt gratitude is due to Dr William Lane Craig, the research professor of Philosophy at Biola University, who galvanised in me the existential questions of ultimate origin, meaning, morality, and destiny; and taught me the life of the mind.
+
+I cannot thank enough my lord and saviour Jesus of Nazareth. He is the sole embodiment of the truth, the way, and the life, who strengthens me.

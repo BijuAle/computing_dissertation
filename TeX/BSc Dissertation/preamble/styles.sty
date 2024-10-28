@@ -1,0 +1,146 @@
+\usepackage[margin=0.6in, includeheadfoot]{geometry}
+\usepackage[backend=biber,uniquename=false,uniquelist=false,mincitenames=3,maxcitenames=3,maxbibnames=99,style=authoryear,dateabbrev=false,isbn=false]{biblatex}
+\addbibresource{bibliography.bib}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{fancyhdr,lastpage}
+\usepackage{float}
+\usepackage{subcaption}
+\usepackage{verbatim} %terminal output
+\usepackage{float} %h!
+\usepackage{array} %table heading style
+\usepackage[super]{nth} %superscripts
+\usepackage{wrapfig}
+\usepackage[linguistics]{forest}
+\usepackage{tikz, pgfplots, environ}\pgfplotsset{compat=1.16}
+\usetikzlibrary{shapes,arrows,positioning,mindmap}
+\usepackage{epigraph}\setlength\epigraphrule{0pt}\setlength\epigraphwidth{.4\textwidth}
+\usepackage{listings}
+\usepackage{enumitem}
+\setlist[enumerate]{nosep}
+\usepackage{smartdiagram}
+\usepackage{pdfpages}
+\usepackage{abstract}
+\usepackage{authblk}
+\usepackage{adforn}
+\usepackage{adjustbox}
+\usepackage[toc,lof,lot]{multitoc}
+\usepackage{ragged2e}
+\usepackage{microtype}
+\sloppy
+\raggedbottom
+
+% PDF Metadata--------------------------------------------------------------------------------------------------------------
+\hypersetup{pdfinfo = {
+		Author= Biju Ale,
+		Title = 9638350 BijuAle Dissertation STW303COM,
+		Subject = Undergraduate Dissertation,
+		Keywords = {Undergraduate Dissertation, Computing, Machine Learning, Astronomy, Computational Astronomy},
+		Producer = pdftex-1.40.20,
+		Creator = Biju Ale,
+		Version = 2.0,
+		CreationDate={D:20180502195600},
+		Comment = Final Version}}
+%-----------------------------------------------------------------------------------------------------------------------------------
+
+%\setlength\parindent{0pt}
+
+%TOC Config----------------------------------
+\setcounter{tocdepth}{3}
+\setcounter{secnumdepth}{3}
+%---------------------------------------------------
+
+\definecolor{lightgray}{gray}{0.9}
+
+%Code-Block Highlighting----------------------------------------------------------------------------------------
+\lstset{
+    showstringspaces=false,
+    showspaces=false,
+    basicstyle=\ttfamily,
+    keywordstyle=\color{blue},
+    commentstyle=\color[grey]{0.6},
+    stringstyle=\color{red},
+    frame=single,
+    breaklines=true,
+    columns=flexible,
+    postbreak=\mbox{\textcolor{red}{$\hookrightarrow$}\space},
+    breakatwhitespace=false
+}
+\newcommand{\inlinecode}[2]{\colorbox{lightgray}{\lstinline[language=#1]$#2$}}
+\captionsetup{font=small, labelfont=bf} 
+%-------------------------------------------------------------------------------------------------------------------------------
+
+%HyperLink Colors--
+\hypersetup{
+    colorlinks,
+    citecolor=black,
+    filecolor=black,
+    linkcolor=black,
+    urlcolor=black
+}
+%---------------------------
+
+
+% Word count------------------------------------------------------------------------------------------------------------
+\newcommand{\detailtexcount}[1]{%
+  \immediate\write18{texcount -merge -sum -q #1.tex output.bbl > #1.wcdetail }%
+  \verbatiminput{#1.wcdetail}%
+}
+
+\newcommand{\quickwordcount}[1]{%
+  \immediate\write18{texcount -1 -sum -merge -q #1.tex output.bbl > #1-words.sum }%
+  \input{#1-words.sum} words%
+}
+ 
+\newcommand{\quickcharcount}[1]{%
+  \immediate\write18{texcount -1 -sum -merge -char -q #1.tex output.bbl > #1-chars.sum }%
+  \input{#1-chars.sum} characters (not including spaces)%
+}
+ %-------------------------------------------------------------------------------------------------------------------------
+ 
+% Change Postnote delimeter to :
+\renewcommand{\postnotedelim}{: }
+
+% Supress 'p.' in postnote
+\DeclareFieldFormat{postnote}{#1}
+\DeclareFieldFormat{multipostnote}{#1}
+
+% Change format of visited on' in references
+\DefineBibliographyStrings{english}{
+  urlseen = {}
+}
+\DeclareFieldFormat{urldate}{\mkbibbrackets{\bibstring{urlseen}\thefield{urlday}\addspace\mkbibmonth{\thefield{urlmonth}}\addspace\thefield{urlyear}}
+}
+
+%Header & Footer%
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0pt}
+\let\oldheadrule\headrule% Copy \headrule into \oldheadrule
+\renewcommand{\headrule}{\color{Gray}\oldheadrule}% Add colour to \headrule
+\lhead{\color{Gray}{\footnotesize{[Dissertation for BSc in Computing]}}}
+\rhead{\color{Gray}{\footnotesize{[BIJU ALE, Coventry University]}}}
+\cfoot{}
+\rfoot{\color{Gray}{\thepage\ of \pageref{LastPage}}}
+
+%Include page number on title page
+\fancypagestyle{plain}{
+	\lhead{}
+	\rhead{}
+	\cfoot{}
+	\rfoot{\color{Gray}{\thepage\ of \pageref{LastPage}}}
+}
+
+%Front matter -------------------------------------------------------------------------------------------------------------
+\setlength{\affilsep}{.3em}
+\title{Predicting Redshifts \& Morphology of Galaxies with Flux Magnitudes.\\
+	\normalsize {Application of Regression \& Classification with Comparative Analysis\\ between Decision Tree \& Random Forest as Ensemble Classifier.}}
+\author{\textbf{Biju Ale}\\\footnotesize{\href{mailto:aleb@coventry.ac.uk}{aleb@coventry.ac.uk}}}
+\affil{\small{Faculty of Engineering, Environment and Computing\\
+		School of Computing, Electronics and Mathematics\\
+		Coventry University}}
+\date{October 19, 2019\\\footnotesize {Dissertation for BSc (Honours) in Computing}}
+%-----------------------------------------------------------------------------------------------------------------------------------

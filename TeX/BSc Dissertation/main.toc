@@ -1,0 +1,163 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}Introduction}{5}{section.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.1}Background}{5}{subsection.1.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2}Aim \& Objectives}{5}{subsection.1.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.1}Technical Objectives.}{5}{subsubsection.1.2.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.2}Personal Objectives}{5}{subsubsection.1.2.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.3}Academic Objectives}{5}{subsubsection.1.2.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.3}Overview}{6}{subsection.1.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.4}Feature Extraction}{6}{subsection.1.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.5}Algorithm Selection}{6}{subsection.1.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.6}Training \& Accuracy}{6}{subsection.1.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.7}Cross-Validatioin}{6}{subsection.1.7}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}Ethical \& Professional Consideration}{7}{section.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}Literature Review}{7}{section.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1}Data-driven Astronomy}{7}{subsection.3.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2}Machine Learning - A Primer}{7}{subsection.3.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Computational Pattern Recognition}{7}{section*.7}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Inductive inference}{8}{section*.8}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3}Machine Learning's Relation with other domains}{8}{subsection.3.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4}Types of Machine Learning Problem}{9}{subsection.3.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.4.1}Supervised Learning}{9}{subsubsection.3.4.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.4.2}Unsupervised Learning}{9}{subsubsection.3.4.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.4.3}Reinforcement Learning}{10}{subsubsection.3.4.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.5}Ensemble Method}{10}{subsection.3.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Literature Interests}{10}{section*.16}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.6}The Origin of the Universe}{10}{subsection.3.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.7}Redshift Measurements}{10}{subsection.3.7}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.8}Galaxy Classification}{11}{subsection.3.8}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{The Nebulae Debate}{11}{section*.17}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Classical Classification}{11}{section*.18}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Evolution Misconception}{11}{section*.20}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Imperative for Machine Learning Approach}{11}{section*.21}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Automated Classification Proposals}{12}{section*.22}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.9}Ensemble Methods in Astronomical Machine Learning}{12}{subsection.3.9}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}Methodology}{12}{section.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1}Overview}{13}{subsection.4.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2}Regression Classifiers}{13}{subsection.4.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.2.1}Photometric Redshift}{13}{subsubsection.4.2.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Galaxy Redshift \& Big Bang}{13}{section*.25}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.2.2}Magnitudes and Colours}{13}{subsubsection.4.2.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.2.3}Decision Trees in Python}{14}{subsubsection.4.2.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.2.4}The Sloan Data}{14}{subsubsection.4.2.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.2.5}Features \& Targets}{14}{subsubsection.4.2.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.2.6}Limitations of Non-ML approach}{14}{subsubsection.4.2.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.2.7}Decision Tree Regressor}{15}{subsubsection.4.2.7}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.2.8}Evaluating The Accuracy}{15}{subsubsection.4.2.8}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.2.9}Hold-out Validation}{16}{subsubsection.4.2.9}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.2.10}The Problem of Overfitting Tendency}{16}{subsubsection.4.2.10}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.2.11}\textit {K}-fold Cross Validation}{17}{subsubsection.4.2.11}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.2.12}Quasars vs Galaxies}{17}{subsubsection.4.2.12}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3}Classification}{18}{subsection.4.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.1}Classifier's Gold Standard - Galaxy Zoo}{18}{subsubsection.4.3.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.2}Deciding upon the Features}{18}{subsubsection.4.3.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.3}Describing the Dataset}{19}{subsubsection.4.3.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.4}Splitting into the Training and the Testing Set}{19}{subsubsection.4.3.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.5}Generating Features and Targets}{19}{subsubsection.4.3.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.6}Training the Decision Tree}{20}{subsubsection.4.3.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.7}Accuracy and model score}{20}{subsubsection.4.3.7}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.8}Ensemble Learning}{21}{subsubsection.4.3.8}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}Findings \& Discussion}{21}{section.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1}Red-shift Regression}{22}{subsection.5.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.1.1}Phase I : Accuracy Assessment with Median Difference }{22}{subsubsection.5.1.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.1.2}Phase II: Realistic accuracy with hold-out validation}{22}{subsubsection.5.1.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.1.3}Phase III: Improving the accuracy with K-Fold Cross Validation}{22}{subsubsection.5.1.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.1.4}Quasars vs Galaxies}{23}{subsubsection.5.1.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2}Morphology Classification}{24}{subsection.5.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.2.1}Accuracy Assessment with Confusion Matrix}{24}{subsubsection.5.2.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.2.2}Random Forest vs Decision Tree}{24}{subsubsection.5.2.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6}Conclusion}{24}{section.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.1}Lessons Learnt}{24}{subsection.6.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2}Limitation of Study}{25}{subsection.6.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.3}Future Work}{25}{subsection.6.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7}Acknowledgment}{25}{section.7}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{References}{26}{section.7}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8}Appendix}{29}{section.8}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.1}Word Count}{29}{subsection.8.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.2}Dissertation Structure}{29}{subsection.8.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.3}Visual Classification Scheme}{29}{subsection.8.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.4}Code Snippets}{30}{subsection.8.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.5}GUI Prototype}{30}{subsection.8.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.6}Redshift Regression}{32}{subsection.8.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.7}Morphology Classification}{37}{subsection.8.7}% 

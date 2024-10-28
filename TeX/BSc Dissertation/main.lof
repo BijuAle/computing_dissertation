@@ -1,0 +1,157 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {1}{\ignorespaces Rich Picture depicting the overview of the dissertation project. Image Credit/Reference: Distant Galaxies \parencite {nasa_hubblesite:_2004}, Elliptical \parencite {nasa_hubble_2016}, Spiral \parencite {nasa/jpl_milky_2019}, Merger \parencite {evan_gough_artists_2019}, Sloan Telescope \parencite {ieee_computer_society_digital_liibrary_ieee_1999}\relax }}{6}{figure.caption.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2}{\ignorespaces Annie J. Cannon at Radcliffe College \parencite {schlesinger_library_portrait_2016}\relax }}{7}{figure.caption.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3}{\ignorespaces Machine Learning Process Abstraction\relax }}{8}{figure.caption.9}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4}{\ignorespaces Traditional Programming vs Machine Learning\relax }}{8}{figure.caption.11}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5}{\ignorespaces Types of Machine Learning Problem\relax }}{9}{figure.caption.12}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {6}{\ignorespaces Supervised Learning: (1) Feature Extraction (Labelled Data) (2) Learning (Model learnt using for example the decision tree ID3 algorithm) (3) Prediction\relax }}{9}{figure.caption.13}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {7}{\ignorespaces Unsupervised Learning: (1) Feature Extraction (Unlabelled Data) (2) Learning (Model learnt using for example the Clustering Algorithm) (3) Prediction (Model applied to new data.)\relax }}{9}{figure.caption.14}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {8}{\ignorespaces State Machine Representation of an Agent Interacting with its Environment.\relax }}{10}{figure.caption.15}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {9}{\ignorespaces Hubble-De Vaucouleurs Morphological Classification Scheme of Galaxies\relax }}{11}{figure.caption.19}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {10}{\ignorespaces Thonnat's synopsis of automated morphological classification. \parencite [54]{thonnat_toward_1989}\relax }}{12}{figure.caption.23}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {11}{\ignorespaces Research Methodology that I have followed.\relax }}{13}{figure.caption.24}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {12}{\ignorespaces SDSS Filters, Reference Spectrum, and Redshifting Spectrum(ref image sdss).\relax }}{13}{figure.caption.26}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {13}{\ignorespaces Graphic view of decision tree generated in Python for the redshift regression.\relax }}{14}{figure.caption.27}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {14}{\ignorespaces Subroutine to extract features and to define the target.\relax }}{14}{figure.caption.29}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {15}{\ignorespaces Redshift vs Colour index `u-g'.\relax }}{14}{figure.caption.30}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {16}{\ignorespaces Redshift vs two colour indices.\relax }}{15}{figure.caption.31}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {17}{\ignorespaces Method - Decision Tree Regression Prediction.\relax }}{15}{figure.caption.32}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {18}{\ignorespaces First 4 predictions of redshifts.\relax }}{15}{figure.caption.33}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {19}{\ignorespaces Code to calculate the accuracy using the median difference.\relax }}{15}{figure.caption.34}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {20}{\ignorespaces Subroutine to compute the median difference.\relax }}{16}{figure.caption.35}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {21}{\ignorespaces Subroutine for hold-out validation.\relax }}{16}{figure.caption.36}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {22}{\ignorespaces Hold-out validation method invocation\relax }}{16}{figure.caption.37}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {23}{\ignorespaces Median difference after Hold-out validation.\relax }}{16}{figure.caption.38}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {24}{\ignorespaces Subroutine to return accuracy by tree depth.\relax }}{16}{figure.caption.39}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {25}{\ignorespaces Overfitting problem in decision tree visualised.\relax }}{17}{figure.caption.40}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {27}{\ignorespaces Anatomy of a Quasar\relax }}{17}{figure.caption.42}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {26}{\ignorespaces Subroutine for \textit {k}-fold cross validation.\relax }}{17}{figure.caption.41}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {28}{\ignorespaces Method to separate dataset based on spectral class.\relax }}{18}{figure.caption.43}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {29}{\ignorespaces Spiral, Elliptical, and \& Merger Galaxies (From left, Messier 101 \parencite {nasajpl_caltech_pinwheel_2017}, ESO 325-G004\parencite {space_telescope_science_institute_hubblesite_2007}, \& Arp 240 - merger of NGC 5257 and NGC 5258 \parencite {european_space_agency_esa_2019}\relax }}{18}{figure.caption.44}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {30}{\ignorespaces Flux magnitude across 5 SDSS filters (ref image sdss).\relax }}{18}{figure.caption.45}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {31}{\ignorespaces Example of ellipse imposed on an elliptical galaxy.\relax }}{18}{figure.caption.46}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {32}{\ignorespaces Metadata of NumPy Record of Galaxy data.\relax }}{19}{figure.caption.47}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {33}{\ignorespaces Subroutine to generate features and targets set.\relax }}{19}{figure.caption.48}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {34}{\ignorespaces Subroutine to Train the Decision Tree.\relax }}{20}{figure.caption.49}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {35}{\ignorespaces Subroutine to calculate the classification accuracy.\relax }}{20}{figure.caption.50}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {36}{\ignorespaces Subroutine to generate the confusion matrix.\relax }}{20}{figure.caption.51}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {37}{\ignorespaces Invocation of subroutines to train and assess the classification model.\relax }}{21}{figure.caption.52}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {38}{\ignorespaces Subrouting to perform 10-Fold cross validation with random forest.\relax }}{21}{figure.caption.53}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {39}{\ignorespaces Invocation of subroutine to perform 10-Fold cross validation with Random Forest.\relax }}{21}{figure.caption.54}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {40}{\ignorespaces Residual distribution with quartiles.\relax }}{22}{figure.caption.55}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {41}{\ignorespaces Rate of median difference change over the increasing dataset.\relax }}{22}{figure.caption.56}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {42}{\ignorespaces Overfitting problem in decision tree visualised.\relax }}{23}{figure.caption.57}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {43}{\ignorespaces Visualisation of accuracy after \textit {k}-fold validation.\relax }}{23}{figure.caption.58}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {44}{\ignorespaces Distribution of redshifts of galaxies and quasars\relax }}{23}{figure.caption.59}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {45}{\ignorespaces Predicted vs measured redshifts of galaxies and quasars.\relax }}{23}{figure.caption.60}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {46}{\ignorespaces Confusion matrix for elliptical, mergers, spiral galaxies.\relax }}{24}{figure.caption.61}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {47}{\ignorespaces A comparison between prediction accuracy for decision tree and ensemble method used in morphologic classification of galaxies.\relax }}{24}{figure.caption.63}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {48}{\ignorespaces Custom-designed ordered Structure for my Dissertation\relax }}{29}{figure.caption.65}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {49}{\ignorespaces Galaxy Zoo Decision Tree for Visual Classification\relax }}{29}{figure.caption.66}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {50}{\ignorespaces File structure for the GUI prototype developed in Django.\relax }}{30}{figure.caption.67}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {51}{\ignorespaces An example of front-end design with HTML and Django Template (Part 1 of 2).\relax }}{30}{figure.caption.68}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {52}{\ignorespaces An example of front-end design with HTML and Django Template (Part 2 of 2).\relax }}{31}{figure.caption.69}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {53}{\ignorespaces An example of view controller with routines integrated in Django (Part 1 of 2).\relax }}{31}{figure.caption.70}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {54}{\ignorespaces An example of view controller with routines integrated in Django. (Part 2 of 2)\relax }}{31}{figure.caption.71}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {55}{\ignorespaces Sample page loaded with Django controllers as part of GUI prototype.\relax }}{32}{figure.caption.72}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {56}{\ignorespaces File structure of classification and regression on SDSS dataset.\relax }}{32}{figure.caption.73}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {57}{\ignorespaces Features (u,g,r,i,z flux magnitudes) Extraction from SDSS dataset.\relax }}{32}{figure.caption.74}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {58}{\ignorespaces Training the decision tree regressor.\relax }}{32}{figure.caption.75}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {59}{\ignorespaces Calculating median residuals.\relax }}{32}{figure.caption.76}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {60}{\ignorespaces Regression with hold-out validation (Part 1 of 2).\relax }}{33}{figure.caption.77}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {61}{\ignorespaces Regression with hold-out validation (Part 2 of 2).\relax }}{33}{figure.caption.78}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {62}{\ignorespaces Colour vs Colour Redshift Plot.\relax }}{33}{figure.caption.79}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {63}{\ignorespaces K-Fold Cross-Validated Predictions (Part 1 of 2).\relax }}{34}{figure.caption.80}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {64}{\ignorespaces K-Fold Cross-Validated Predictions (Part 2 of 2).\relax }}{34}{figure.caption.81}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {65}{\ignorespaces K-Fold Cross-Validation (Part 1 of 2).\relax }}{34}{figure.caption.82}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {66}{\ignorespaces K-Fold Cross-Validation(Part 2 of 2).\relax }}{34}{figure.caption.83}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {67}{\ignorespaces Overfitting Trees with varying tree depth (Part 1 of 2).\relax }}{35}{figure.caption.84}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {68}{\ignorespaces Overfitting Trees with varying tree depth (Part 2 of 2).\relax }}{35}{figure.caption.85}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {69}{\ignorespaces Visualising decision tree regressor trained model with mean squared errors.\relax }}{36}{figure.caption.86}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {70}{\ignorespaces Quasars vs Galaxy redshift predictions (Part 1 of 2).\relax }}{36}{figure.caption.87}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {71}{\ignorespaces Quasars vs Galaxy redshift predictions (Part 2 of 2).\relax }}{37}{figure.caption.88}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {72}{\ignorespaces Splitting the galaxy catalogue.\relax }}{37}{figure.caption.89}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {73}{\ignorespaces Generating features and targets.\relax }}{37}{figure.caption.90}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {74}{\ignorespaces Training the decision tree classifier (Part 1 of 2).\relax }}{37}{figure.caption.91}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {75}{\ignorespaces Training the decision tree classifier (Part 2 of 2).\relax }}{38}{figure.caption.92}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {76}{\ignorespaces Accuracy and model's score with confusion matrix.\relax }}{38}{figure.caption.93}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {77}{\ignorespaces Accuracy and model's score with confusion matrix.\relax }}{38}{figure.caption.94}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {78}{\ignorespaces Random Forest with confusion matrix.\relax }}{38}{figure.caption.95}% 
